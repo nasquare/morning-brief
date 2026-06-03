@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Morning Brief</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,900&family=Newsreader:opsz,wght@6..72,400;6..72,500&family=Spline+Sans+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#f4efe4; --paper-2:#efe8d8; --ink:#1c1a17; --ink-soft:#5c574d;
+    --rule:#d9d0bd; --accent:#bb3b22; --accent-soft:#e7d9c7; --card:#fbf8f0;
+    --shadow:0 1px 0 rgba(28,26,23,.04), 0 8px 24px -16px rgba(28,26,23,.35);
+  }
+  [data-theme="dark"]{
+    --paper:#16140f; --paper-2:#1d1a14; --ink:#ece6d8; --ink-soft:#9a9384;
+    --rule:#33302a; --accent:#e0603f; --accent-soft:#2a241c; --card:#1f1c16;
+    --shadow:0 1px 0 rgba(0,0,0,.3), 0 10px 30px -18px rgba(0,0,0,.8);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    background:var(--paper); color:var(--ink);
+    font-family:"Newsreader",Georgia,serif; font-size:18px; line-height:1.55;
+    -webkit-font-smoothing:antialiased;
+    background-image:radial-gradient(rgba(120,110,90,.05) 1px, transparent 1px);
+    background-size:4px 4px;
+  }
+  .wrap{max-width:760px; margin:0 auto; padding:0 20px 80px}
+
+  /* Masthead */
+  header{padding:34px 0 18px; border-bottom:3px double var(--ink); margin-bottom:6px}
+  .kicker{font-family:"Spline Sans Mono",monospace; font-size:11px; letter-spacing:.28em;
+    text-transform:uppercase; color:var(--accent); display:flex; justify-content:space-between; align-items:center}
+  .theme-btn{background:none;border:1px solid var(--rule);color:var(--ink-soft);
+    font:inherit;font-size:11px;letter-spacing:.1em;cursor:pointer;border-radius:20px;
+    padding:4px 12px;font-family:"Spline Sans Mono",monospace}
+  h1{font-family:"Fraunces",serif; font-weight:900; font-size:clamp(44px,12vw,76px);
+    line-height:.92; letter-spacing:-.02em; margin:10px 0 14px}
+  .meta{font-family:"Spline Sans Mono",monospace; font-size:12px; color:var(--ink-soft);
+    display:flex; gap:16px; flex-wrap:wrap; align-items:center}
+  .meta b{color:var(--ink); font-weight:500}
+
+  /* Category nav */
+  nav{position:sticky; top:0; z-index:5; background:var(--paper);
+    padding:12px 0; margin:0 -20px 8px; padding-left:20px; padding-right:20px;
+    border-bottom:1px solid var(--rule); display:flex; gap:8px; overflow-x:auto;
+    scrollbar-width:none}
+  nav::-webkit-scrollbar{display:none}
+  .chip{flex:0 0 auto; font-family:"Spline Sans Mono",monospace; font-size:12px;
+    border:1px solid var(--rule); background:var(--card); color:var(--ink-soft);
+    padding:6px 13px; border-radius:30px; cursor:pointer; white-space:nowrap; transition:.15s}
+  .chip:hover{border-color:var(--ink-soft)}
+  .chip.active{background:var(--ink); color:var(--paper); border-color:var(--ink)}
+  .toggle-read{margin-left:auto; flex:0 0 auto}
+
+  /* Sections */
+  section{margin-top:34px; scroll-margin-top:70px}
+  .sec-head{display:flex; align-items:baseline; gap:12px; margin-bottom:4px}
+  .sec-head h2{font-family:"Fraunces",serif; font-weight:600; font-size:26px; letter-spacing:-.01em}
+  .sec-head .count{font-family:"Spline Sans Mono",monospace; font-size:12px; color:var(--accent)}
+  .sec-rule{height:2px; background:var(--ink); margin:8px 0 4px}
+
+  /* Cards */
+  article{padding:20px 0; border-bottom:1px solid var(--rule); position:relative; transition:.2s}
+  article.read{opacity:.42}
+  .badges{display:flex; gap:8px; align-items:center; margin-bottom:7px; flex-wrap:wrap}
+  .src{font-family:"Spline Sans Mono",monospace; font-size:11px; letter-spacing:.04em;
+    color:var(--ink-soft); text-transform:uppercase}
+  .multi{font-family:"Spline Sans Mono",monospace; font-size:10px; letter-spacing:.06em;
+    background:var(--accent); color:#fff; padding:2px 7px; border-radius:3px; text-transform:uppercase}
+  .also{font-family:"Spline Sans Mono",monospace; font-size:11px; color:var(--accent)}
+  .date{font-family:"Spline Sans Mono",monospace; font-size:11px; color:var(--ink-soft); margin-left:auto}
+  h3{font-family:"Fraunces",serif; font-weight:600; font-size:23px; line-height:1.18;
+    letter-spacing:-.01em; margin-bottom:6px}
+  h3 a{color:inherit; text-decoration:none; background-image:linear-gradient(var(--accent),var(--accent));
+    background-size:0% 2px; background-repeat:no-repeat; background-position:0 100%; transition:.3s}
+  h3 a:hover{background-size:100% 2px}
+  .summary{color:var(--ink-soft); font-size:17px; line-height:1.5}
+  .actions{display:flex; gap:14px; margin-top:11px}
+  .act{font-family:"Spline Sans Mono",monospace; font-size:11px; letter-spacing:.06em;
+    text-transform:uppercase; background:none; border:none; color:var(--ink-soft);
+    cursor:pointer; padding:0; transition:.15s}
+  .act:hover{color:var(--accent)}
+  .act.on{color:var(--accent)}
+
+  /* Collapsible "everything else" */
+  details summary{list-style:none; cursor:pointer}
+  details summary::-webkit-details-marker{display:none}
+  details summary .sec-head h2::after{content:" +"; color:var(--accent)}
+  details[open] summary .sec-head h2::after{content:" –"}
+
+  .empty{text-align:center; padding:80px 20px; color:var(--ink-soft); font-style:italic}
+  .hidden{display:none !important}
+  footer{margin-top:50px; padding-top:18px; border-top:1px solid var(--rule);
+    font-family:"Spline Sans Mono",monospace; font-size:11px; color:var(--ink-soft); text-align:center}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="kicker">
+      <span>Your Daily Signal · No Duplicates</span>
+      <button class="theme-btn" id="theme">DARK</button>
+    </div>
+    <h1>Morning&nbsp;Brief</h1>
+    <div class="meta" id="meta"></div>
+  </header>
+
+  <nav id="nav"></nav>
+  <div id="content"></div>
+
+  <footer>Rebuilt automatically every morning · nasquare/morning-brief</footer>
+</div>
+
+<script>
+const KEY_READ = "mb_read", KEY_SAVE = "mb_saved", KEY_HIDE = "mb_hideread", KEY_THEME = "mb_theme";
+const getSet = k => new Set(JSON.parse(localStorage.getItem(k) || "[]"));
+const putSet = (k,s) => localStorage.setItem(k, JSON.stringify([...s]));
+let readSet = getSet(KEY_READ), saveSet = getSet(KEY_SAVE);
+let hideRead = localStorage.getItem(KEY_HIDE) === "1";
+let activeCat = "All";
+let DATA = null;
+
+// theme
+if(localStorage.getItem(KEY_THEME)==="dark"){document.documentElement.dataset.theme="dark";}
+document.getElementById("theme").onclick = e => {
+  const dark = document.documentElement.dataset.theme==="dark";
+  if(dark){delete document.documentElement.dataset.theme; localStorage.setItem(KEY_THEME,"light");}
+  else{document.documentElement.dataset.theme="dark"; localStorage.setItem(KEY_THEME,"dark");}
+  syncTheme();
+};
+function syncTheme(){
+  document.getElementById("theme").textContent =
+    document.documentElement.dataset.theme==="dark" ? "LIGHT" : "DARK";
+}
+syncTheme();
+
+function fmtDate(iso){
+  if(!iso) return "";
+  const d = new Date(iso);
+  if(isNaN(d)) return "";
+  return d.toLocaleDateString("en-GB",{day:"numeric",month:"short"});
+}
+
+function render(){
+  const content = document.getElementById("content");
+  content.innerHTML = "";
+  if(!DATA || !DATA.categories || !DATA.total_stories){
+    content.innerHTML = `<div class="empty">No stories yet. Once the morning robot runs,<br>your brief shows up here.</div>`;
+    return;
+  }
+  DATA.categories.forEach(cat => {
+    if(activeCat !== "All" && activeCat !== cat.name) return;
+    const isMisc = cat.name === "Everything else";
+    const sec = document.createElement(isMisc ? "details" : "section");
+    if(isMisc) sec.id = "sec-misc"; else sec.id = "sec-" + cat.name.replace(/\W+/g,"");
+
+    const headHTML = `<div class="sec-head"><h2>${cat.name}</h2><span class="count">${cat.items.length}</span></div><div class="sec-rule"></div>`;
+    sec.innerHTML = isMisc ? `<summary>${headHTML}</summary>` : headHTML;
+
+    cat.items.forEach(it => {
+      if(hideRead && readSet.has(it.id)) return;
+      const art = document.createElement("article");
+      if(readSet.has(it.id)) art.classList.add("read");
+      const titleHTML = it.url
+        ? `<a href="${it.url}" target="_blank" rel="noopener">${it.title}</a>`
+        : `${it.title}`;
+      const multi = it.n_sources > 1 ? `<span class="multi">${it.n_sources}× covered</span>` : "";
+      const also = it.also_in && it.also_in.length
+        ? `<span class="also">also in ${it.also_in.join(", ")}</span>` : "";
+      const inbox = it.url ? "" : `<span class="also">from your inbox</span>`;
+      art.innerHTML = `
+        <div class="badges">
+          <span class="src">${it.source}</span>${multi}${also}${inbox}
+          <span class="date">${fmtDate(it.date)}</span>
+        </div>
+        <h3>${titleHTML}</h3>
+        <p class="summary">${it.summary}</p>
+        <div class="actions">
+          <button class="act ${readSet.has(it.id)?"on":""}" data-act="read" data-id="${it.id}">${readSet.has(it.id)?"✓ read":"mark read"}</button>
+          <button class="act ${saveSet.has(it.id)?"on":""}" data-act="save" data-id="${it.id}">${saveSet.has(it.id)?"★ saved":"save"}</button>
+        </div>`;
+      sec.appendChild(art);
+    });
+    content.appendChild(sec);
+  });
+
+  content.querySelectorAll(".act").forEach(b => b.onclick = () => {
+    const {act,id} = b.dataset;
+    const set = act==="read" ? readSet : saveSet;
+    set.has(id) ? set.delete(id) : set.add(id);
+    putSet(act==="read"?KEY_READ:KEY_SAVE, set);
+    render();
+  });
+}
+
+function buildNav(){
+  const nav = document.getElementById("nav");
+  const cats = ["All", ...(DATA?.categories?.map(c=>c.name) || [])];
+  nav.innerHTML = cats.map(c =>
+    `<span class="chip ${c===activeCat?"active":""}" data-cat="${c}">${c}</span>`).join("")
+    + `<span class="chip toggle-read" id="hidetoggle">${hideRead?"show read":"hide read"}</span>`;
+  nav.querySelectorAll(".chip[data-cat]").forEach(ch => ch.onclick = () => {
+    activeCat = ch.dataset.cat; buildNav(); render();
+  });
+  document.getElementById("hidetoggle").onclick = () => {
+    hideRead = !hideRead; localStorage.setItem(KEY_HIDE, hideRead?"1":"0"); buildNav(); render();
+  };
+}
+
+fetch("data.json?v=" + Date.now())
+  .then(r => r.json())
+  .then(d => {
+    DATA = d;
+    document.getElementById("meta").innerHTML =
+      `<span>Updated <b>${d.generated_at_label||"—"}</b></span><span><b>${d.total_stories}</b> stories</span><span><b>${d.categories.length}</b> sections</span>`;
+    buildNav(); render();
+  })
+  .catch(() => {
+    document.getElementById("content").innerHTML =
+      `<div class="empty">Couldn't load today's brief yet.<br>If you just set this up, give the robot one morning to run.</div>`;
+  });
+</script>
+</body>
+</html>

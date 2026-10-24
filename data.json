@@ -1,13 +1,255 @@
 {
-  "generated_at": "2026-10-23T01:02:38.078705+00:00",
-  "generated_at_label": "Fri 23 Oct, 9:02 AM SGT",
-  "total_stories": 140,
+  "generated_at": "2026-10-24T01:11:43.527023+00:00",
+  "generated_at_label": "Sat 24 Oct, 9:11 AM SGT",
+  "total_stories": 127,
   "categories": [
     {
       "name": "Crypto & Web3",
       "items": [
         {
+          "id": "s32",
+          "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
+          "url": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
+          "source": "Decrypt",
+          "date": "2026-10-23T15:50:41+00:00",
+          "summary": "Spot Bitcoin ETFs lost $635.6 million on Thursday, their biggest outflow of the month, pushing October flows back to a loss of about $176 million as Ethereum and Solana funds also bled.",
+          "also_in": [],
+          "n_sources": 2,
+          "_score": 7
+        },
+        {
+          "id": "s25",
+          "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+          "url": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
+          "source": "Decrypt",
+          "date": "2026-10-23T21:16:03+00:00",
+          "summary": "Days before Israel’s election, Netanyahu said he has asked for a blockchain plan in case banks are hit with sanctions, and told Israelis to prepare for a rainy day after Trump.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 4
+        },
+        {
+          "id": "s26",
+          "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
+          "url": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+          "source": "Decrypt",
+          "date": "2026-10-23T20:16:02+00:00",
+          "summary": "Sen. Richard Blumenthal demanded Tether’s records on payments to Nxum, a firm co-owned by former White House crypto adviser Bo Hines.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 8
+        },
+        {
+          "id": "s28",
+          "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
+          "url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
+          "source": "Decrypt",
+          "date": "2026-10-23T18:54:55+00:00",
+          "summary": "The regulator's Division of Examinations named \"super intelligence and other advanced technologies\" as a focus area alongside tokenization risks.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 4
+        },
+        {
+          "id": "s30",
+          "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
+          "url": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
+          "source": "Decrypt",
+          "date": "2026-10-23T17:16:03+00:00",
+          "summary": "Developers will now backport fixes and cut releases immediately for flaws flagged as “easily discoverable,” abandoning long embargoes for bugs an attacker can surface with a single AI prompt.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 3
+        },
+        {
+          "id": "s31",
+          "title": "Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York",
+          "url": "https://decrypt.co/381708/crypto-scammers-prayer-groups-lure-victims-must-pay-1-3-billion-new-york",
+          "source": "Decrypt",
+          "date": "2026-10-23T16:31:03+00:00",
+          "summary": "New York’s attorney general asked a court to order NovaTech’s founders, who fled the country, to pay about $1.37 billion, and settled with four top promoters for nearly $6 million.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 3
+        },
+        {
           "id": "s0",
+          "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+          "url": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "date": "2026-10-23T13:58:56+00:00",
+          "summary": "(no preview available)",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 3
+        },
+        {
+          "id": "s33",
+          "title": "Morning Minute: a16z Drops 'Crypto' From Its Fund",
+          "url": "https://decrypt.co/381691/morning-minute-a16z-drops-crypto-from-its-fund",
+          "source": "Decrypt",
+          "date": "2026-10-23T13:29:21+00:00",
+          "summary": "The name change is symbolic of the fund’s future investing focus, though the firm will continue investing in crypto.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 4
+        },
+        {
+          "id": "s34",
+          "title": "Interpol Recovers $105M in African Cybercrime Sweep That Shut Illegal Crypto Mines",
+          "url": "https://decrypt.co/381690/interpol-recovers-105m-in-african-cybercrime-sweep-that-shut-illegal-crypto-mines",
+          "source": "Decrypt",
+          "date": "2026-10-23T13:18:18+00:00",
+          "summary": "Operation Serengeti III led to 1,462 arrests across 21 countries, while Angolan police seized more than 2,000 crypto mining devices.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 4
+        },
+        {
+          "id": "s1",
+          "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
+          "url": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "date": "2026-10-23T12:03:53+00:00",
+          "summary": "(no preview available)",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 3
+        },
+        {
+          "id": "s123",
+          "title": "CitySquash / Gluck+",
+          "url": "https://www.archdaily.com/1187044/citysquash-gluck-plus",
+          "source": "ArchDaily Global",
+          "date": "2026-10-23T12:00:00+00:00",
+          "summary": "CitySquash is a not-for-profit after-school enrichment program serving youth in the Bronx and Brooklyn through an integrated model of athletics, academics and mentorship.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 1
+        },
+        {
+          "id": "s35",
+          "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
+          "url": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
+          "source": "Decrypt",
+          "date": "2026-10-23T11:49:37+00:00",
+          "summary": "The Hoodi testnet fork is off after ChainSecurity found gas changes that could let contracts lock in failures, citing 13 real-world cases.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 6
+        },
+        {
+          "id": "s2",
+          "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
+          "url": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "date": "2026-10-23T11:22:33+00:00",
+          "summary": "(no preview available)",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 3
+        },
+        {
+          "id": "s3",
+          "title": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
+          "url": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "date": "2026-10-23T11:13:01+00:00",
+          "summary": "(no preview available)",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 3
+        },
+        {
+          "id": "s4",
+          "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
+          "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "date": "2026-10-23T10:54:41+00:00",
+          "summary": "(no preview available)",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 3
+        },
+        {
+          "id": "s36",
+          "title": "Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank",
+          "url": "https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank",
+          "source": "Decrypt",
+          "date": "2026-10-23T10:54:35+00:00",
+          "summary": "The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Heatbit says it uses the same electricity to heat the water.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 3
+        },
+        {
+          "id": "s5",
+          "title": "Bitcoin appears to have decoupled from midterm cycle bottom history",
+          "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "date": "2026-10-23T10:53:09+00:00",
+          "summary": "(no preview available)",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 3
+        },
+        {
+          "id": "s6",
+          "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
+          "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "date": "2026-10-23T10:22:56+00:00",
+          "summary": "(no preview available)",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 3
+        },
+        {
+          "id": "s7",
+          "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
+          "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "date": "2026-10-23T08:57:34+00:00",
+          "summary": "(no preview available)",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 3
+        },
+        {
+          "id": "s37",
+          "title": "Bitcoin in 'Wait and See Mode'—And That Might Be a Good Thing",
+          "url": "https://decrypt.co/381666/bitcoin-in-wait-and-see-mode-and-that-might-be-a-good-thing",
+          "source": "Decrypt",
+          "date": "2026-10-23T08:55:35+00:00",
+          "summary": "The crypto market has been quiet as of late. Market analysts think that might actually be a good sign and that a bull market might be near.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 4
+        },
+        {
+          "id": "s10",
+          "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+          "url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "date": "2026-10-23T04:59:34+00:00",
+          "summary": "(no preview available)",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 6
+        },
+        {
+          "id": "s12",
+          "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+          "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "date": "2026-10-23T03:13:01+00:00",
+          "summary": "(no preview available)",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 3
+        },
+        {
+          "id": "s13",
           "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
           "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -18,7 +260,7 @@
           "_score": 3
         },
         {
-          "id": "s25",
+          "id": "s38",
           "title": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
           "url": "https://decrypt.co/381662/internet-safe-again-after-php-nightmare-what-you-need-know",
           "source": "Decrypt",
@@ -29,18 +271,7 @@
           "_score": 1
         },
         {
-          "id": "s84",
-          "title": "'Avatar: Seven Havens' Producers Provide a Suspicious Answer About the Anomaly",
-          "url": "https://www.polygon.com/avatar-seven-havens-producers-interview-anomaly-vaatu-connection/",
-          "source": "Polygon.com",
-          "date": "2026-10-22T20:01:19+00:00",
-          "summary": "Avatar: Seven Havens producers address whether the Anomaly’s mysterious diamond-shaped entity is connected to Vaatu.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 1
-        },
-        {
-          "id": "s27",
+          "id": "s40",
           "title": "a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech",
           "url": "https://decrypt.co/381642/a16z-drops-crypto-widens-bets-ai-frontier-tech",
           "source": "Decrypt",
@@ -51,7 +282,7 @@
           "_score": 5
         },
         {
-          "id": "s1",
+          "id": "s14",
           "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
           "url": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -62,18 +293,7 @@
           "_score": 3
         },
         {
-          "id": "s32",
-          "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
-          "url": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
-          "source": "Decrypt",
-          "date": "2026-10-22T16:31:07+00:00",
-          "summary": "Spot Bitcoin ETFs have drawn about $1.07 billion over three sessions, pushing October flows to a gain of roughly $460 million, even as Bitcoin and Ethereum prices slipped.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 7
-        },
-        {
-          "id": "s33",
+          "id": "s45",
           "title": "What Is a Neocloud? The GPU Clouds Powering the AI Boom",
           "url": "https://decrypt.co/resources/what-is-a-neocloud-the-gpu-clouds-powering-the-ai-boom",
           "source": "Decrypt",
@@ -84,7 +304,7 @@
           "_score": 1
         },
         {
-          "id": "s3",
+          "id": "s16",
           "title": "Crypto for Advisors: Stablecoins are ready for prime time",
           "url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -95,7 +315,7 @@
           "_score": 6
         },
         {
-          "id": "s4",
+          "id": "s17",
           "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
           "url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -106,7 +326,7 @@
           "_score": 3
         },
         {
-          "id": "s5",
+          "id": "s18",
           "title": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
           "url": "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -115,226 +335,6 @@
           "also_in": [],
           "n_sources": 1,
           "_score": 3
-        },
-        {
-          "id": "s6",
-          "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
-          "url": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "date": "2026-10-22T12:14:29+00:00",
-          "summary": "(no preview available)",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 9
-        },
-        {
-          "id": "s36",
-          "title": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin",
-          "url": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin",
-          "source": "Decrypt",
-          "date": "2026-10-22T12:01:03+00:00",
-          "summary": "Each SOFIE token represents $1 on deposit at SoFi Bank, earning 4.40% APY with FDIC insurance—a yield-and-protection combination ordinary stablecoins lack.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 8
-        },
-        {
-          "id": "s7",
-          "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
-          "url": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "date": "2026-10-22T11:20:04+00:00",
-          "summary": "(no preview available)",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 6
-        },
-        {
-          "id": "s8",
-          "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
-          "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "date": "2026-10-22T10:50:04+00:00",
-          "summary": "(no preview available)",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 9
-        },
-        {
-          "id": "s37",
-          "title": "Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M",
-          "url": "https://decrypt.co/381589/italy-busts-mafia-secret-bank-that-laundered-money-through-crypto-seizes-24m",
-          "source": "Decrypt",
-          "date": "2026-10-22T10:45:13+00:00",
-          "summary": "Police say a car-rental firm near Milan was an underground bank for 'Ndrangheta and Camorra figures, moving money abroad and into crypto.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 4
-        },
-        {
-          "id": "s9",
-          "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
-          "url": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "date": "2026-10-22T10:18:28+00:00",
-          "summary": "(no preview available)",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 3
-        },
-        {
-          "id": "s38",
-          "title": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
-          "url": "https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case",
-          "source": "Decrypt",
-          "date": "2026-10-22T10:09:42+00:00",
-          "summary": "A Tianjin court will hear the application after a six-month notice period, while a parallel fight over the same coins continues in London.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 3
-        },
-        {
-          "id": "s146",
-          "title": "COP31 to Take Place in Antalya, Turkiye, as SP Architects Adapts Former Expo Grounds",
-          "url": "https://www.archdaily.com/1187334/cop31-to-take-place-in-antalya-turkiye-as-sp-architects-adapts-former-expo-grounds",
-          "source": "ArchDaily Global",
-          "date": "2026-10-22T06:30:00+00:00",
-          "summary": "The 31st Conference of the Parties to the United Nations Framework Convention on Climate Change (COP31) will take place in Antalya , Türkiye , from November 9 to 20, under a joint governance model where Türkiye hosts the summit and presidency, while Australia leads the formal negotiations.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 1
-        },
-        {
-          "id": "s12",
-          "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
-          "url": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "date": "2026-10-22T06:24:10+00:00",
-          "summary": "(no preview available)",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 3
-        },
-        {
-          "id": "s13",
-          "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
-          "url": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "date": "2026-10-22T05:24:58+00:00",
-          "summary": "(no preview available)",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 3
-        },
-        {
-          "id": "s14",
-          "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
-          "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "date": "2026-10-22T04:41:59+00:00",
-          "summary": "(no preview available)",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 3
-        },
-        {
-          "id": "s16",
-          "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
-          "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "date": "2026-10-22T03:51:34+00:00",
-          "summary": "(no preview available)",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 3
-        },
-        {
-          "id": "s64",
-          "title": "The Rise and Fall of My Wikipedia Page",
-          "url": "https://hyperallergic.com/the-rise-and-fall-of-my-wikipedia-page/",
-          "source": "Hyperallergic",
-          "date": "2026-10-21T20:56:25+00:00",
-          "summary": "After a short entry about me mysteriously appeared, anonymous users who were seemingly men debated whether I was “credible enough” to justify my own page.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 1
-        },
-        {
-          "id": "s43",
-          "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
-          "url": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds",
-          "source": "Decrypt",
-          "date": "2026-10-21T17:31:03+00:00",
-          "summary": "Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from October's slide, putting \"Uptober\" back on the table.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 8
-        },
-        {
-          "id": "s44",
-          "title": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
-          "url": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem",
-          "source": "Decrypt",
-          "date": "2026-10-21T16:46:04+00:00",
-          "summary": "Formed with the Dogecoin Foundation and led by MyDoge founder Jordan Jefferson, the new company consolidates the MyDoge wallet, DogeOS app platform, and Such App to build an economy around DOGE.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 1
-        },
-        {
-          "id": "s17",
-          "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
-          "url": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "date": "2026-10-21T16:23:44+00:00",
-          "summary": "(no preview available)",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 3
-        },
-        {
-          "id": "s45",
-          "title": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
-          "url": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
-          "source": "Decrypt",
-          "date": "2026-10-21T16:16:05+00:00",
-          "summary": "Musk said both boards formed committees to weigh a tie-up that would combine Tesla’s 11,509 BTC and SpaceX’s 18,712 BTC—roughly $2.5 billion worth—onto a single balance sheet.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 5
-        },
-        {
-          "id": "s46",
-          "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
-          "url": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
-          "source": "Decrypt",
-          "date": "2026-10-21T15:43:32+00:00",
-          "summary": "Bitcoin-backed loans let holders borrow cash or stablecoins without selling BTC. Here's how collateral, LTV and liquidations work.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 9
-        },
-        {
-          "id": "s18",
-          "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
-          "url": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "date": "2026-10-21T15:22:46+00:00",
-          "summary": "(no preview available)",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 6
-        },
-        {
-          "id": "s20",
-          "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
-          "url": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "date": "2026-10-21T15:00:53+00:00",
-          "summary": "(no preview available)",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 6
         }
       ]
     },
@@ -342,7 +342,271 @@
       "name": "Art & Curation",
       "items": [
         {
+          "id": "s77",
+          "title": "Disney's Officially Bringing Back a '90s Cartoon Icon After 35 Years",
+          "url": "https://www.polygon.com/darkwing-duck-reboot-disney-plus/",
+          "source": "Polygon.com",
+          "date": "2026-10-23T23:33:18+00:00",
+          "summary": "Disney Plus is getting a new Darkwing Duck series, featuring the return of crime fighter Drake Mallard.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 3
+        },
+        {
+          "id": "s51",
+          "title": "Portrait of a Paris Art Week on Fire",
+          "url": "https://hyperallergic.com/portrait-of-a-paris-art-week-on-fire/",
+          "source": "Hyperallergic",
+          "date": "2026-10-23T19:56:12+00:00",
+          "summary": "On protest, business as usual, and the surreal experience of attending an art fair while smelling burning plastic.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 5
+        },
+        {
+          "id": "s52",
+          "title": "How Art Can Deliver Justice for Refugees",
+          "url": "https://hyperallergic.com/how-art-can-deliver-justice-for-refugees/",
+          "source": "Hyperallergic",
+          "date": "2026-10-23T19:50:12+00:00",
+          "summary": "In the legal system, art created by refugees and incarcerated people can serve both as a form of therapy and as evidence of mass atrocities.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 4
+        },
+        {
+          "id": "s53",
+          "title": "The War on Art Is Repeating Itself",
+          "url": "https://hyperallergic.com/the-war-on-art-is-repeating-itself/",
+          "source": "Hyperallergic",
+          "date": "2026-10-23T19:24:34+00:00",
+          "summary": "As an artist who lived through the Reagan-era Culture Wars, I recommend Isaac Butler’s “The Perfect Moment” for the stories that parallel our current fight to defend creative expression.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 5
+        },
+        {
           "id": "s54",
+          "title": "Kid Cudi to Write, Direct, and Star as Basquiat in New Biopic",
+          "url": "https://hyperallergic.com/kid-cudi-to-write-direct-and-star-as-basquiat-in-new-biopic/",
+          "source": "Hyperallergic",
+          "date": "2026-10-23T19:14:00+00:00",
+          "summary": "The rapper called his forthcoming film, \"JEAN,\" a “love letter” to the late artist and ’80s New York in his announcement on October 21.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 2
+        },
+        {
+          "id": "s55",
+          "title": "The Center Cannot Hold at the Toronto Biennial",
+          "url": "https://hyperallergic.com/the-center-cannot-hold-at-the-toronto-biennial/",
+          "source": "Hyperallergic",
+          "date": "2026-10-23T19:01:25+00:00",
+          "summary": "It’s a provocative and discursive exploration of how artists respond to our late-capitalist epoch, but its focus on “rupture” raises questions.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 2
+        },
+        {
+          "id": "s29",
+          "title": "How I Vibe Coded My Smart TV—And Claude Killed It",
+          "url": "https://decrypt.co/381717/how-vibe-coded-my-smart-tv-claude-killed-it",
+          "source": "Decrypt",
+          "date": "2026-10-23T17:53:29+00:00",
+          "summary": "Vibe coding your TV is impressive. Doing it without knowing exactly what you're touching is how you lose a rooted LG set and get a very sincere apology from an AI.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 3
+        },
+        {
+          "id": "s66",
+          "title": "Sales Were Brisk Inside Art Basel Paris’s ‘Big Glass Bubble.’ Then the Shutdown Came",
+          "url": "https://news.artnet.com/market/art-basel-paris-2026-sales-protests-early-closure-2823843",
+          "source": "Artnet News",
+          "date": "2026-10-23T16:59:01+00:00",
+          "summary": "‘What choice is there?’ one dealer said. Some exhibitors started packing before the fair even closed. The post Sales Were Brisk Inside Art Basel Paris’s ‘Big Glass Bubble.’ Then the Shutdown Came appeared first on Artnet News .",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 6
+        },
+        {
+          "id": "s67",
+          "title": "The Paris Art Fairs and Museums Closing Amid Protests",
+          "url": "https://news.artnet.com/art-world/paris-art-fairs-museums-closed-protests-2827694",
+          "source": "Artnet News",
+          "date": "2026-10-23T15:55:58+00:00",
+          "summary": "The protests arrive at a high point in the city's art calendar. The post The Paris Art Fairs and Museums Closing Amid Protests appeared first on Artnet News .",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 14
+        },
+        {
+          "id": "s68",
+          "title": "Ibrahim Mahama Is Reviving the Past to Build a Different Future",
+          "url": "https://news.artnet.com/art-world/ibrahim-mahama-fondation-cartier-2827696",
+          "source": "Artnet News",
+          "date": "2026-10-23T15:49:21+00:00",
+          "summary": "At Fondation Cartier, a reconstructed Ghanaian glass factory and a circle of Ashanti stools turn ruins into living material. The post Ibrahim Mahama Is Reviving the Past to Build a Different Future appeared first on Artnet News .",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 2
+        },
+        {
+          "id": "s121",
+          "title": "Basque Museum Bilbao / VAILLO + ARCHITECTS",
+          "url": "https://www.archdaily.com/1187258/basque-museum-bilbao-vaillo-plus-architects",
+          "source": "ArchDaily Global",
+          "date": "2026-10-23T15:00:00+00:00",
+          "summary": "The project is the outcome of a competition for the comprehensive architectural and museographic renovation and rehabilitation of the Euskal Museoa Bilbao—the Ethnographic Museum of Basque Culture.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 5
+        },
+        {
+          "id": "s88",
+          "title": "\"Why the f**k would they add a perk like that?\" - Modern Warfare 4 DMZ players are up in arms over the ability to self-revive",
+          "url": "https://www.eurogamer.net/modern-warfare-4-dmz-playing-possum-perk-broke",
+          "source": "Eurogamer.net Latest Articles Feed",
+          "date": "2026-10-23T14:55:40+00:00",
+          "summary": "Modern Warfare 4's DMZ extraction shooter mode has only been out for two days - and only for those who pre-ordered the game - but already players are up in arms over a particular trait that allows competitors to revive themselves after being killed. Read more",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 1
+        },
+        {
+          "id": "s58",
+          "title": "Skirball Cultural Center presents “The 1960s — A Generation on Fire: Judy Baca’s Great Wall of Los Angeles”",
+          "url": "https://hyperallergic.com/skirball-cultural-center-presents-the-1960s-a-generation-on-fire-judy-bacas-great-wall-of-los-angeles/",
+          "source": "Hyperallergic",
+          "date": "2026-10-23T14:30:00+00:00",
+          "summary": "The exhibition shares two new sections of the public art mural on view for the first time, featuring moments from an era of collective action that still resonates today.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 2
+        },
+        {
+          "id": "s69",
+          "title": "The Intimate Gallery That’s Bringing British Art Home",
+          "url": "https://news.artnet.com/art-world/jenna-burlingham-gallery-2827024",
+          "source": "Artnet News",
+          "date": "2026-10-23T12:00:23+00:00",
+          "summary": "Furnished rooms, a constantly changing hang, and a wide range of prices make Jenna Burlingham Gallery as welcoming to new collectors as to seasoned ones. The post The Intimate Gallery That’s Bringing British Art Home appeared first on Artnet News .",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 11
+        },
+        {
+          "id": "s124",
+          "title": "Success Academy Bronx K–12 Campus / SOM",
+          "url": "https://www.archdaily.com/1187400/success-academy-bronx-k-12-campus-som",
+          "source": "ArchDaily Global",
+          "date": "2026-10-23T12:00:00+00:00",
+          "summary": "Success Academy (SA)—one of the nation's largest and highest-performing public charter networks—educates 22,000 students, primarily from low-income backgrounds, across 60 New York City schools.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 2
+        },
+        {
+          "id": "s70",
+          "title": "Barbara Hepworth Dominates at Christie’s $30M British and Irish Art Evening Sale",
+          "url": "https://news.artnet.com/market/industry-intel-oct-23-2827609",
+          "source": "Artnet News",
+          "date": "2026-10-23T10:58:17+00:00",
+          "summary": "Plus, a rare Hilma af Klint surfaces at auction, forthcoming Róng Museum appoints curatorial team, and more industry intel. The post Barbara Hepworth Dominates at Christie’s $30M British and Irish Art Evening Sale appeared first on Artnet News .",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 8
+        },
+        {
+          "id": "s59",
+          "title": "Au Revoir, Art Basel Paris",
+          "url": "https://hyperallergic.com/au-revoir-art-basel-paris/",
+          "source": "Hyperallergic",
+          "date": "2026-10-23T10:00:00+00:00",
+          "summary": "French museums and galleries are shuttering before nationwide protests tomorrow. Plus: What does it mean for a woman artist to “reach her prime”?",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 6
+        },
+        {
+          "id": "s105",
+          "title": "Foster + Partners designs pair of skyscrapers connected by garden bridges in Armenia",
+          "url": "https://www.dezeen.com/2026/10/23/world-trade-center-yerevan-foster-partners-armenia/",
+          "source": "Dezeen",
+          "date": "2026-10-23T10:00:00+00:00",
+          "summary": "A pair of skyscrapers joined by three bridge elements will form the centrepiece of World Trade Center Yerevan, a development by British studio Foster + Partners set to be built in Armenia.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 6
+        },
+        {
+          "id": "s106",
+          "title": "\"Getting people into space is one thing. Creating somewhere they actually want to live is quite another\"",
+          "url": "https://www.dezeen.com/2026/10/23/space-architecture-jonathan-morrison-opinion/",
+          "source": "Dezeen",
+          "date": "2026-10-23T09:00:00+00:00",
+          "summary": "With humans soon set to start living on the moon, now is the time for architects to work out how to design habitats that actually work, writes Jonathan Morrison. The post \"Getting people into space is one thing. Creating somewhere they actually want to live is quite another\" appeared first on Dezeen .",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 1
+        },
+        {
+          "id": "s126",
+          "title": "Architectural competition for the design and supervision of the construction of the project “Limassol Arts Centre”",
+          "url": "https://www.archdaily.com/1187254/architectural-competition-for-the-design-and-supervision-of-the-construction-of-the-project-limassol-arts-centre",
+          "source": "ArchDaily Global",
+          "date": "2026-10-23T09:00:00+00:00",
+          "summary": "Competition description The competition aims to create a contemporary, flexible, and sustainable cultural facility (“Limassol Arts Centre”) as a strategic pillar of the Limassol Cultural Strategy 2024–2034.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 10
+        },
+        {
+          "id": "s130",
+          "title": "Two Projects in Paris Win the European Collective Housing Award",
+          "url": "https://www.archdaily.com/1186870/two-projects-in-paris-win-the-european-collective-housing-award",
+          "source": "ArchDaily Global",
+          "date": "2026-10-23T06:45:00+00:00",
+          "summary": "As cities struggle to provide adequate and affordable housing, examining built examples of collective housing can help inform decisions about what to build and how. These projects offer opportunities to assess solutions, understand their limitations, and consider what might be applied elsewhere.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 1
+        },
+        {
+          "id": "s71",
+          "title": "5 Thrilling Artworks and Shows From a Heady, Fraught Art Basel Paris",
+          "url": "https://news.artnet.com/artnet-bulletin/art-basel-paris-week-highlights-oct-23-2827321",
+          "source": "Artnet News",
+          "date": "2026-10-23T06:30:38+00:00",
+          "summary": "Including: Martin Wong's paintbrushes, a Dan Flavin master class at Gagosian, and a lot more. The post 5 Thrilling Artworks and Shows From a Heady, Fraught Art Basel Paris appeared first on Artnet News .",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 8
+        },
+        {
+          "id": "s132",
+          "title": "Tollymore House / McGonigle McGrath",
+          "url": "https://www.archdaily.com/1186480/tollymore-mcgonigle-mcgrath",
+          "source": "ArchDaily Global",
+          "date": "2026-10-23T06:00:00+00:00",
+          "summary": "Sited on the steep north bank of a 'spate' river in the shadow of the Mourne Mountains in County Down, this house takes its cue from the glacial river stones that line the river edge.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 1
+        },
+        {
+          "id": "s133",
+          "title": "Mecanoo Releases New Images of the Museum Boijmans Van Beuningen Renovation in Rotterdam",
+          "url": "https://www.archdaily.com/1187399/mecanoo-releases-new-images-of-the-museum-boijmans-van-beuningen-renovation-in-rotterdam",
+          "source": "ArchDaily Global",
+          "date": "2026-10-23T05:30:00+00:00",
+          "summary": "Delft-based practice Mecanoo has just released images of the renovation project for the Museum Boijmans Van Beuningen in Rotterdam , the Netherlands .",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 7
+        },
+        {
+          "id": "s60",
           "title": "Studio Museum Announces New Artists-in-Residence",
           "url": "https://hyperallergic.com/studio-museum-announces-new-artists-in-residence/",
           "source": "Hyperallergic",
@@ -353,7 +617,7 @@
           "_score": 9
         },
         {
-          "id": "s55",
+          "id": "s61",
           "title": "When Does a Woman Artist Reach Her \"Prime\"?",
           "url": "https://hyperallergic.com/when-does-a-woman-artist-reach-her-prime/",
           "source": "Hyperallergic",
@@ -364,7 +628,7 @@
           "_score": 8
         },
         {
-          "id": "s69",
+          "id": "s72",
           "title": "Back to the Culture Wars",
           "url": "https://news.artnet.com/multimedia/culture-wars-history-isaac-butler-2818399",
           "source": "Artnet News",
@@ -375,7 +639,7 @@
           "_score": 1
         },
         {
-          "id": "s56",
+          "id": "s62",
           "title": "Louvre Among Major Paris Museums to Shutter During Saturday Protests",
           "url": "https://hyperallergic.com/louvre-among-major-paris-museums-to-shutter-during-saturday-protests/",
           "source": "Hyperallergic",
@@ -386,7 +650,7 @@
           "_score": 5
         },
         {
-          "id": "s70",
+          "id": "s73",
           "title": "This Kandinsky Work Is Primed to Shatter the Artist’s Record",
           "url": "https://news.artnet.com/market/kandinsky-betonte-ecken-christies-2827451",
           "source": "Artnet News",
@@ -397,7 +661,7 @@
           "_score": 13
         },
         {
-          "id": "s117",
+          "id": "s111",
           "title": "Autex Acoustics panels \"place sound at the heart\" of Manchester's Bar Shrimp",
           "url": "https://www.dezeen.com/2026/10/22/autex-acoustics-panels-sound-manchesters-bar-shrimp/",
           "source": "Dezeen",
@@ -406,270 +670,6 @@
           "also_in": [],
           "n_sources": 1,
           "_score": 4
-        },
-        {
-          "id": "s71",
-          "title": "Monet’s Long-Hidden ‘Iris’ Blooms to Record $56.2M at Auction",
-          "url": "https://news.artnet.com/market/schlumberger-monet-sothebys-auction-2812462",
-          "source": "Artnet News",
-          "date": "2026-10-22T18:35:08+00:00",
-          "summary": "It is now the most expensive painting to sell at auction in France. The post Monet’s Long-Hidden ‘Iris’ Blooms to Record $56.2M at Auction appeared first on Artnet News .",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 7
-        },
-        {
-          "id": "s30",
-          "title": "Tesla's Profit Drops 43% as Musk Starts Building Robots and Plans to Sell Driverless Cabs",
-          "url": "https://decrypt.co/381624/teslas-profit-drops-musk-robots-driverless-cabs",
-          "source": "Decrypt",
-          "date": "2026-10-22T18:06:02+00:00",
-          "summary": "Tesla earned $787 million last quarter, down from $1.37 billion, as spending on robots and self-driving cars soared. Optimus is in production, and Tesla aims to get Cybercabs to customers by year-end.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 4
-        },
-        {
-          "id": "s58",
-          "title": "Shuttering Early, Art Basel Paris Also Removes Public Sculptures",
-          "url": "https://hyperallergic.com/shuttering-early-art-basel-paris-also-removes-public-sculptures/",
-          "source": "Hyperallergic",
-          "date": "2026-10-22T18:03:47+00:00",
-          "summary": "Works by Simone Fattal, Manfred Pernice, and Niki de Saint Phalle are among those that will be removed early from Winston Churchill Avenue ahead of the fair’s early closure.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 6
-        },
-        {
-          "id": "s72",
-          "title": "$34.3M Roman Marble Busts Through Antiquity Record at Sotheby’s",
-          "url": "https://news.artnet.com/market/roman-marble-sothebys-antiquity-record-2827333",
-          "source": "Artnet News",
-          "date": "2026-10-22T17:43:59+00:00",
-          "summary": "The Roman sculpture smashed its presale estimate of $12 million. The post $34.3M Roman Marble Busts Through Antiquity Record at Sotheby’s appeared first on Artnet News .",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 2
-        },
-        {
-          "id": "s132",
-          "title": "Dam House / 24 7 Arquitetura",
-          "url": "https://www.archdaily.com/1187148/casa-da-represa-24-7-arquitetura",
-          "source": "ArchDaily Global",
-          "date": "2026-10-22T17:00:00+00:00",
-          "summary": "Set on an approximately 24.000 m² site with an elevation difference of over 60 meters descending toward the reservoir, the residence emerges from a desire to establish continuity between architecture, topography and landscape.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 1
-        },
-        {
-          "id": "s34",
-          "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re 'Horrified'",
-          "url": "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts",
-          "source": "Decrypt",
-          "date": "2026-10-22T15:24:18+00:00",
-          "summary": "Major banks including Morgan Stanley, JPMorgan, Bank of America, and Citi are moving to restrict third-party AI agents that log in with customers’ credentials.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 1
-        },
-        {
-          "id": "s133",
-          "title": "Casa LDM / HILADA Arquitectos",
-          "url": "https://www.archdaily.com/1187249/casa-ldm",
-          "source": "ArchDaily Global",
-          "date": "2026-10-22T15:00:00+00:00",
-          "summary": "Casa LDM is located on the outskirts of Palmira , Valle del Cauca, within the Lagos de Maracaibo residential development. The site combines elevated topography, open views toward the Valle del Cauca and the Central Mountain Range, and an L-shaped lake that partially surrounds the house.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 1
-        },
-        {
-          "id": "s61",
-          "title": "Art Basel Paris to Close Two Days Early, Citing Protests",
-          "url": "https://hyperallergic.com/art-basel-paris-to-close-two-days-early-citing-protests/",
-          "source": "Hyperallergic",
-          "date": "2026-10-22T14:48:35+00:00",
-          "summary": "Amid ongoing nationwide demonstrations for better living conditions in France, the fair said it will shutter over the weekend “in the interest of safeguarding our visitors.”",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 3
-        },
-        {
-          "id": "s73",
-          "title": "Paris Auction Houses Turn Up the Heat",
-          "url": "https://news.artnet.com/market/paris-auctions-october-2026-2827225",
-          "source": "Artnet News",
-          "date": "2026-10-22T13:45:12+00:00",
-          "summary": "Monet's ‘Iris’ carries the highest estimate ever set for a painting at auction in France, at up to $33.7 million. The post Paris Auction Houses Turn Up the Heat appeared first on Artnet News .",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 7
-        },
-        {
-          "id": "s74",
-          "title": "Art Basel Paris to Close Early in Face of Weekend Protests",
-          "url": "https://news.artnet.com/market/art-basel-paris-art-fairs-saturday-protest-2827227",
-          "source": "Artnet News",
-          "date": "2026-10-22T13:00:02+00:00",
-          "summary": "Some others fairs have not yet made announcements. The post Art Basel Paris to Close Early in Face of Weekend Protests appeared first on Artnet News .",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 5
-        },
-        {
-          "id": "s136",
-          "title": "Neighbourhood Seniors Apartment / DAGA Architects",
-          "url": "https://www.archdaily.com/922238/neighbourhood-seniors-apartment-daga-architects",
-          "source": "ArchDaily Global",
-          "date": "2026-10-22T12:00:00+00:00",
-          "summary": "Beijing's neighborhood elderly apartment is designed to redefine the concept of an old-age apartment in order to change the condition of old and poor, which is 4,500 square meters.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 5
-        },
-        {
-          "id": "s137",
-          "title": "Hangzhou Vanke Times Commune / DAGA Architects",
-          "url": "https://www.archdaily.com/917840/hangzhou-vanke-times-commune-daga-architects",
-          "source": "ArchDaily Global",
-          "date": "2026-10-22T12:00:00+00:00",
-          "summary": "The project is located in the west of Xike Netease Science and Technology Park, Binjiang District, Hangzhou City, Zhejiang Province, just one way from Alibaba.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 3
-        },
-        {
-          "id": "s62",
-          "title": "French Students Take to the Monuments",
-          "url": "https://hyperallergic.com/french-students-take-to-the-monuments/",
-          "source": "Hyperallergic",
-          "date": "2026-10-22T10:00:00+00:00",
-          "summary": "How protesters are subverting France’s public landmarks; an \"awfully confusing\" costume show at The Met; and the true story of an artist, a scammer, and a Wikipedia page.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 2
-        },
-        {
-          "id": "s121",
-          "title": "Liverpool's The Beatles museum to relocate to 1960s shopping centre",
-          "url": "https://www.dezeen.com/2026/10/22/the-beatles-story-liverpool-relocation/",
-          "source": "Dezeen",
-          "date": "2026-10-22T10:00:00+00:00",
-          "summary": "British multimedia company Apple Corps has announced that The Beatles Story museum in Liverpool will move from its site on the Royal Albert Dock to the St Johns Shopping Centre and former Radio City Tower.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 5
-        },
-        {
-          "id": "s140",
-          "title": "\"From Void to Value: Revisioning Tallinn's Old Town\" Vision Competition Exhibition",
-          "url": "https://www.archdaily.com/1187379/from-void-to-value-revisioning-tallinns-old-town-vision-competition-exhibition",
-          "source": "ArchDaily Global",
-          "date": "2026-10-22T09:15:00+00:00",
-          "summary": "VISION COMPETITION EXHIBITION The Vision Competition Exhibition, entitled “From Void to Value: Revisioning Tallinn’s Old Town”, is presented at the Tammsaare Park Outdoor Gallery in Tallinn opening on 16 October and running until 12 November 2026.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 8
-        },
-        {
-          "id": "s142",
-          "title": "Open Call for Artist Participation in the 19th Istanbul Biennial",
-          "url": "https://www.archdaily.com/1187301/open-call-for-artist-participation-in-the-19th-istanbul-biennial",
-          "source": "ArchDaily Global",
-          "date": "2026-10-22T09:05:00+00:00",
-          "summary": "The open call for the 19th Istanbul Biennial aims to deepen a particular line of research within the Biennial’s broader conceptual framework.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 15
-        },
-        {
-          "id": "s75",
-          "title": "InScope Wants to Reinvent the Miami Art Week Experience",
-          "url": "https://news.artnet.com/art-world/inscope-miami-2826260",
-          "source": "Artnet News",
-          "date": "2026-10-22T07:47:05+00:00",
-          "summary": "Produced by the same team behind Scope Art Show, InScope reimagines Miami Art Week as a single, continuous experience rather than a string of separate fairs and parties. The post InScope Wants to Reinvent the Miami Art Week Experience appeared first on Artnet News .",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 8
-        },
-        {
-          "id": "s76",
-          "title": "Robert Rauschenberg’s Epic Digital Catalogue Raisonné Is Here",
-          "url": "https://news.artnet.com/artnet-bulletin/robert-rauschenberg-catalogue-raisonne-oct-22-2827051",
-          "source": "Artnet News",
-          "date": "2026-10-22T06:30:47+00:00",
-          "summary": "Plus, the V&A faces strike trouble, the NFL taps Jammie Holmes in Paris, and other art world matters. The post Robert Rauschenberg’s Epic Digital Catalogue Raisonné Is Here appeared first on Artnet News .",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 2
-        },
-        {
-          "id": "s148",
-          "title": "Snøhetta’s Shanghai Grand Opera House Opens and Chicago’s 1901 Project Advances: This Week’s Review",
-          "url": "https://www.archdaily.com/1187318/snohettas-shanghai-grand-opera-house-opens-and-chicagos-1901-project-advances-this-weeks-review",
-          "source": "ArchDaily Global",
-          "date": "2026-10-22T05:30:00+00:00",
-          "summary": "An international cultural venue was inaugurated this week after a decade-long construction process. Snøhetta's Shanghai Grand Opera House opened to the public on October 17, 2026 , on the banks of the Huangpu River in Shanghai, China.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 2
-        },
-        {
-          "id": "s123",
-          "title": "“Hydrofeminism” and leaky saints feature in Everything Moist Seems Alive installation",
-          "url": "https://www.dezeen.com/2026/10/22/hydrofeminism-everything-moist-seems-alive-installation/",
-          "source": "Dezeen",
-          "date": "2026-10-22T05:00:00+00:00",
-          "summary": "The technical minimalism of artist Boris Acket and the maximalism of fake fashion house Maison the Faux come together in the installation Everything Moist Seems Alive at MU Hybrid Art House during Dutch Design Week.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 3
-        },
-        {
-          "id": "s152",
-          "title": "House in Minamigata / Yutaka Yoshida Architect & Associates",
-          "url": "https://www.archdaily.com/1186226/house-in-minamigata-yutaka-yoshida-architect-and-associates",
-          "source": "ArchDaily Global",
-          "date": "2026-10-22T02:00:00+00:00",
-          "summary": "This is a small house situated in a corner of a small town located between the Shinkansen line extending from JR Okayama Station and two conventional rail lines.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 1
-        },
-        {
-          "id": "s77",
-          "title": "Frank Lloyd Wright’s Only Planetarium Reopens After Major Restoration",
-          "url": "https://news.artnet.com/art-world/frank-lloyd-wright-miller-planetarium-restoration-2826965",
-          "source": "Artnet News",
-          "date": "2026-10-21T21:19:57+00:00",
-          "summary": "A star is reborn! The post Frank Lloyd Wright’s Only Planetarium Reopens After Major Restoration appeared first on Artnet News .",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 1
-        },
-        {
-          "id": "s65",
-          "title": "Spirits Against the Patriarchy",
-          "url": "https://hyperallergic.com/spirits-against-the-patriarchy/",
-          "source": "Hyperallergic",
-          "date": "2026-10-21T20:32:21+00:00",
-          "summary": "An exceptional exhibition that brings together 17 women artists whose work emerges through spirit communication.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 3
-        },
-        {
-          "id": "s66",
-          "title": "Is Germany's Far-Right AfD Co-Opting Joseph Beuys?",
-          "url": "https://hyperallergic.com/is-germanys-far-right-afd-co-opting-joseph-beuys/",
-          "source": "Hyperallergic",
-          "date": "2026-10-21T20:21:40+00:00",
-          "summary": "Dozens of galleries from Düsseldorf and Cologne signed a letter condemning the anti-immigrant party's invocation of the postwar artist in promotions for an upcoming event.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 3
         }
       ]
     },
@@ -677,53 +677,73 @@
       "name": "Gaming & Esports",
       "items": [
         {
-          "id": "s83",
-          "title": "Everything We Know About Project Helix, the Next Xbox",
-          "url": "https://www.polygon.com/next-xbox-console-release-date-price-project-helix/",
-          "source": "Polygon.com",
-          "date": "2026-10-22T20:12:23+00:00",
-          "summary": "A rundown of everything announced, reported, leaked, and rumored about the next-gen Xbox, including, release date, price, and specs",
-          "also_in": [],
-          "n_sources": 2,
-          "_score": 4
-        },
-        {
-          "id": "s86",
-          "title": "Farewell BioWare, you inspired so many of us, and you deserved so much better than this",
-          "url": "https://www.eurogamer.net/farewell-bioware-closed-ea",
+          "id": "s84",
+          "title": "Nintendo's Shigeru Miyamoto says even if gen-AI \"were to eventually handle everything, there will always be a role left\" for human designers",
+          "url": "https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
           "source": "Eurogamer.net Latest Articles Feed",
-          "date": "2026-10-22T16:45:25+00:00",
-          "summary": "Oof. I expected this day to come but the news has left me winded nonetheless; BioWare, the creator of so many beloved role-playing series and games - Mass Effect , Dragon Age, Baldur's Gate , Star Wars: Knights of the Old Republic - has been closed.",
-          "also_in": [
-            "Polygon.com"
-          ],
-          "n_sources": 2,
-          "_score": 2
-        },
-        {
-          "id": "s80",
-          "title": "'Mass Effect Universe' Leak Promised What Fans Have Waited Decades For",
-          "url": "https://www.polygon.com/mass-effect-universe-new-characters-male-quarian-asari-krogan-aliens/",
-          "source": "Polygon.com",
-          "date": "2026-10-22T22:19:07+00:00",
-          "summary": "BioWare's canceled Mass Effect Universe game would have paid off a long-standing fan request, and fans are mourning the game's death.",
+          "date": "2026-10-23T20:12:34+00:00",
+          "summary": "Legendary Nintendo developer Shigeru Miyamoto - who led development on classic games such as Super Mario 64 and The Legend of Zelda: Ocarina of Time - has argued that the rise of generative AI tools won't necessarily replace human talent. Read more",
           "also_in": [],
           "n_sources": 1,
-          "_score": 2
+          "_score": 5
         },
         {
           "id": "s85",
-          "title": "Sid Meier's Civilization games: the oral history",
-          "url": "https://www.polygon.com/civilization-games-oral-history/",
-          "source": "Polygon.com",
-          "date": "2026-10-22T20:00:32+00:00",
-          "summary": "From MS-DOS Civilization to 35 years and Civ 7's upcoming Earthrise expansion, Meier and Firaxis creatives walk up us through gaming history.",
+          "title": "With Minecraft and Diablo shows already on the way, Netflix reportedly offered Xbox $500m for a bigger film and TV deal",
+          "url": "https://www.eurogamer.net/netflix-500m-xbox-film-tv-rights",
+          "source": "Eurogamer.net Latest Articles Feed",
+          "date": "2026-10-23T18:38:57+00:00",
+          "summary": "A deal between Netflix and Xbox has supposedly fallen through because of one minor quibble: Netflix wanted to adapt the console maker's games for $500m, not $800m. Read more",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 6
+        },
+        {
+          "id": "s86",
+          "title": "As devastating Xbox \"reset\" continues, Dishonored studio Arkane Lyon reportedly only has until November to find a new buyer before it's closed",
+          "url": "https://www.eurogamer.net/xbox-layoffs-marvels-blade-arkane-lyon-closure",
+          "source": "Eurogamer.net Latest Articles Feed",
+          "date": "2026-10-23T18:09:03+00:00",
+          "summary": "After getting caught up in Xbox CEO Asha Sharma's devastating layoffs and cuts earlier this year, Arkane Lyon - the beloved immersive sim studio behind the likes of Dishonored and Deathloop - reportedly only has until November to find a buyer. If the search fails, it will be shut down. Read more",
           "also_in": [],
           "n_sources": 1,
           "_score": 4
         },
         {
-          "id": "s88",
+          "id": "s89",
+          "title": "Half-Life 3 is back in the news again as Valve developer accidentally sort-of references it in public, reigniting hope once more",
+          "url": "https://www.eurogamer.net/half-life-3-developer-references-codename-public",
+          "source": "Eurogamer.net Latest Articles Feed",
+          "date": "2026-10-23T12:43:22+00:00",
+          "summary": "It's been 19 years since the release of Half-Life 2 : Episode 2, and yet the ceaseless clamour for a Valve game with a number '3' in its title continues.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 1
+        },
+        {
+          "id": "s90",
+          "title": "Phantom Blade Zero isn't even out yet, but it could be 'one of the year's breakout hits' as it shifts half a million copies on Steam alone",
+          "url": "https://www.eurogamer.net/phantom-blade-zero-hit-not-out",
+          "source": "Eurogamer.net Latest Articles Feed",
+          "date": "2026-10-23T12:33:45+00:00",
+          "summary": "Chinese action game Phantom Blade Zero already appears to be outperforming massive games like Gears of War: E-Day and Control Resonant on Steam, despite still being days from release. Read more",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 6
+        },
+        {
+          "id": "s91",
+          "title": "Flashy internal trailer for now-cancelled Mass Effect Universe appears online, following EA's closure of BioWare",
+          "url": "https://www.eurogamer.net/mass-effect-universe-trailer-leak-real",
+          "source": "Eurogamer.net Latest Articles Feed",
+          "date": "2026-10-23T09:11:49+00:00",
+          "summary": "An internal trailer for the cancelled Mass Effect game that was in-development at BioWare prior to its closure this week has appeared online. It's confirmed to be real, too, amid some initial suspicions it may have been an AI generated fake. Read more",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 1
+        },
+        {
+          "id": "s92",
           "title": "Smash Bros. director Masahiro Sakurai thinks gen-AI will cause a surge of unoriginal games, but says human creativity can't be replicated",
           "url": "https://www.eurogamer.net/smash-bros-masahiro-sakurai-generative-ai-unoriginal-games",
           "source": "Eurogamer.net Latest Articles Feed",
@@ -734,7 +754,18 @@
           "_score": 5
         },
         {
-          "id": "s89",
+          "id": "s93",
+          "title": "Farewell BioWare, you inspired so many of us, and you deserved so much better than this",
+          "url": "https://www.eurogamer.net/farewell-bioware-closed-ea",
+          "source": "Eurogamer.net Latest Articles Feed",
+          "date": "2026-10-22T16:45:25+00:00",
+          "summary": "Oof. I expected this day to come but the news has left me winded nonetheless; BioWare, the creator of so many beloved role-playing series and games - Mass Effect , Dragon Age, Baldur's Gate , Star Wars: Knights of the Old Republic - has been closed.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 2
+        },
+        {
+          "id": "s94",
           "title": "Final Fantasy 14, Umamusume: Pretty Derby, and more impacted as PHP vulnerability outages hit games around the globe",
           "url": "https://www.eurogamer.net/video-games-down-php-vulnerability",
           "source": "Eurogamer.net Latest Articles Feed",
@@ -745,7 +776,7 @@
           "_score": 4
         },
         {
-          "id": "s90",
+          "id": "s95",
           "title": "BioWare's cancelled Mass Effect game would've learned from Baldur's Gate 3 and The Witcher to deliver \"a level of autonomy and choice that no other game has\"",
           "url": "https://www.eurogamer.net/cancelled-mass-effect-bioware-unprecedented-levels-of-autonomy",
           "source": "Eurogamer.net Latest Articles Feed",
@@ -756,7 +787,7 @@
           "_score": 5
         },
         {
-          "id": "s91",
+          "id": "s96",
           "title": "Despite its mixed reception, Marvel's Wolverine was September's top-selling new game in the US, making Sony launch revenues it hasn't seen since Helldivers 2",
           "url": "https://www.eurogamer.net/marvels-wolverine-top-seling-september-us-circana",
           "source": "Eurogamer.net Latest Articles Feed",
@@ -767,7 +798,7 @@
           "_score": 4
         },
         {
-          "id": "s92",
+          "id": "s97",
           "title": "Games industry mourns sudden BioWare closure - \"Anyone who participated in this travesty should be ashamed\"",
           "url": "https://www.eurogamer.net/video-game-industry-reacts-to-bioware-closure",
           "source": "Eurogamer.net Latest Articles Feed",
@@ -778,7 +809,7 @@
           "_score": 4
         },
         {
-          "id": "s94",
+          "id": "s99",
           "title": "Xbox cloud gaming prices revealed, with 50 hours of ad-free game-time priced $11.99",
           "url": "https://www.eurogamer.net/xbox-cloud-gaming-prices-revealed",
           "source": "Eurogamer.net Latest Articles Feed",
@@ -787,138 +818,6 @@
           "also_in": [],
           "n_sources": 1,
           "_score": 11
-        },
-        {
-          "id": "s96",
-          "title": "EA cancels unannounced The Sims project, trims the Skate team and reportedly plans to lay off 400 workers: \"We're the number one publisher in Western HD gaming\"",
-          "url": "https://www.eurogamer.net/ea-cancels-sims-skate-400-layoffs",
-          "source": "Eurogamer.net Latest Articles Feed",
-          "date": "2026-10-21T19:01:46+00:00",
-          "summary": "Not only is EA closing down BioWare and cancelling the next Mass Effect - Electronic Arts has now announced a heap of drastic changes that include cutting 400 jobs across the company, pausing development on a project connected to The Sims, and bringing together Respawn and DICE. Read more",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 6
-        },
-        {
-          "id": "s97",
-          "title": "BioWare is closing down and Mass Effect 5 is cancelled, months after Saudi Arabia's $55bn EA buyout",
-          "url": "https://www.eurogamer.net/bioware-closing-down-mass-effect-5-cancelled",
-          "source": "Eurogamer.net Latest Articles Feed",
-          "date": "2026-10-21T17:55:57+00:00",
-          "summary": "After over three decades of iconic RPGs, developer BioWare is closing down and its in-development Mass Effect game is no more. The move comes just months after corporate owner EA was bought out by a group of investment firms for $55 billion. Read more",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 1
-        },
-        {
-          "id": "s102",
-          "title": "Xbox follows in PlayStation's footsteps, introducing AMD FSR 4.1, targeting better graphics and performance on Series X/S",
-          "url": "https://www.eurogamer.net/xbox-series-x-s-amd-fsr-4-1-upscaling",
-          "source": "Eurogamer.net Latest Articles Feed",
-          "date": "2026-10-21T14:13:43+00:00",
-          "summary": "AMD, the company that designs the chips inside Xbox and PlayStation consoles, made a big announcement this week: it's bringing the latest version of its advanced, AI-driven image upscaling technology, FSR 4.1, to Xbox Series X, Series S, and handhelds ROG Ally and Ally X. Read more",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 10
-        },
-        {
-          "id": "s103",
-          "title": "After a few hours with Yakuza studio's soulful Stranger Than Heaven, I'm smitten, but I suspect it'll be a divisive game",
-          "url": "https://www.eurogamer.net/stranger-than-heaven-preview",
-          "source": "Eurogamer.net Latest Articles Feed",
-          "date": "2026-10-21T14:00:41+00:00",
-          "summary": "Who doesn't love a big swing, a bold new direction, especially when so many video game publishers seem increasingly determined to walk the safest route?",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 7
-        },
-        {
-          "id": "s106",
-          "title": "Even Call of Duty has a parry now and it's kind of brilliant - but do we need it in every game?",
-          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-parry-melee-best-moments",
-          "source": "Eurogamer.net Latest Articles Feed",
-          "date": "2026-10-21T11:22:21+00:00",
-          "summary": "I, for my sins, enjoy parry mechanics. I use 'parry slop' lovingly as a shorthand to refer to action games I want to play which feature parrying as a predominant mechanic. I am also a Call of Duty campaign enjoyer, and those games rarely feature any melee combat, let alone something as advanced as parrying.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 5
-        },
-        {
-          "id": "s52",
-          "title": "'Mentality Issue': PlayStation Founder Waves Away Disc Ownership Anger",
-          "url": "https://decrypt.co/381483/mentality-issue-playstation-founder-waves-away-disc-ownership-anger",
-          "source": "Decrypt",
-          "date": "2026-10-21T11:19:34+00:00",
-          "summary": "PlayStation founder Ken Kutaragi pushed back against anger at Sony's decision to stop producing physical game discs.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 5
-        },
-        {
-          "id": "s107",
-          "title": "Here's our second wave of Xbox Game Pass games for October 2026",
-          "url": "https://www.eurogamer.net/xbox-game-pass-list-october-2026",
-          "source": "Eurogamer.net Latest Articles Feed",
-          "date": "2026-10-21T11:11:19+00:00",
-          "summary": "Microsoft has revealed the second batch of games coming to Xbox Game Pass this month, and there are few genuine corkers, including the console debuts of The Séance of Blake Manor and Mouthwashing , and the addition of Final Fantasy 7 Remake Intergrade - which only arrived on Xbox earlier this year. Read more",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 12
-        },
-        {
-          "id": "s108",
-          "title": "Subnautica 2 adding its \"scariest\" region ever in next major update, the developers say",
-          "url": "https://www.eurogamer.net/subnautica-2-scariest-region-ever-made-update",
-          "source": "Eurogamer.net Latest Articles Feed",
-          "date": "2026-10-21T11:08:04+00:00",
-          "summary": "Subnautica 2 has begun its \"voyage to Early Access 2.0\", developer Unknown Worlds has said, with the revelation of a new update containing the \"scariest\" region they've ever made for the underwater game. Delightful. Read more",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 1
-        },
-        {
-          "id": "s109",
-          "title": "Football Manager 27 will be free to play for five days before its full release, in \"industry first\" for a game of its kind",
-          "url": "https://www.eurogamer.net/football-manager-27-free-to-play-five-days",
-          "source": "Eurogamer.net Latest Articles Feed",
-          "date": "2026-10-21T11:00:00+00:00",
-          "summary": "You can play Football Manager 27 on PC and Mac for free this year for five full days later this month, in a first for the series and apparently an \"industry first\" for games of its kind. Read more",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 4
-        },
-        {
-          "id": "s110",
-          "title": "Xbox reportedly planning three more rounds of layoffs, with the first wave coming as early as this month",
-          "url": "https://www.eurogamer.net/xbox-layoffs-october-november-january-report",
-          "source": "Eurogamer.net Latest Articles Feed",
-          "date": "2026-10-21T10:47:21+00:00",
-          "summary": "Xbox is reportedly gearing up for three more rounds of layoffs as the Microsoft gaming division continues CEO Asha Sharma's plan to reset the business . According to a new report, the first of these is taking place this month, followed by another in November and one in January 2027. Read more",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 5
-        },
-        {
-          "id": "s111",
-          "title": "Resident Evil: Requiem made more money from PlayStation discs than on Xbox in total, reportedly, as Sony's march to a discless future continues",
-          "url": "https://www.eurogamer.net/playstation-physical-disc-sales-statistics-alinea",
-          "source": "Eurogamer.net Latest Articles Feed",
-          "date": "2026-10-21T09:21:49+00:00",
-          "summary": "Physical disc-based copies of Resident Evil: Requiem on PlayStation consoles may have been more popular than all versions of the game on Xbox, a new report has found, while unearthing a trove of other statistics about physical sales. Read more",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 10
-        },
-        {
-          "id": "s112",
-          "title": "Xbox's next-gen console to reportedly cost up to $1,800, with a Helix handheld coming in 2027 and a full release in holiday 2028",
-          "url": "https://www.eurogamer.net/microsoft-next-gen-xbox-helix-date-price",
-          "source": "Eurogamer.net Latest Articles Feed",
-          "date": "2026-10-21T08:40:37+00:00",
-          "summary": "The price of Xbox's next generation console, codename Project Helix, may be higher than many of us expected. Helix, which is reportedly going to ship as two devices, is estimated to cost close to $2,000. Read more",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 8
         }
       ]
     },
@@ -926,7 +825,7 @@
       "name": "Markets & Trading",
       "items": [
         {
-          "id": "s28",
+          "id": "s41",
           "title": "Meta Creates Non-Voting Stock to Fund AI Buildout, Keeping Zuckerberg in Control",
           "url": "https://decrypt.co/381640/meta-non-voting-stock-fund-ai-buildout-zuckerberg-control",
           "source": "Decrypt",
@@ -937,7 +836,7 @@
           "_score": 3
         },
         {
-          "id": "s31",
+          "id": "s44",
           "title": "Oil Climbs Above $111 as AI Stocks Slide, Dragging the S&P 500 and Global Markets With Them",
           "url": "https://decrypt.co/381613/oil-climbs-above-111-as-ai-stocks-slide-dragging-the-sp-500-and-global-markets-with-them",
           "source": "Decrypt",
@@ -948,7 +847,7 @@
           "_score": 14
         },
         {
-          "id": "s35",
+          "id": "s47",
           "title": "Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange",
           "url": "https://decrypt.co/381593/trade-where-you-read-decrypt-brings-jupiter-powered-trading-to-the-information-exchange",
           "source": "Decrypt",
@@ -959,7 +858,7 @@
           "_score": 3
         },
         {
-          "id": "s10",
+          "id": "s23",
           "title": "Live updates: Bitcoin falls back to $81,000, with interest rates tumbling as stocks crack",
           "url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -970,7 +869,7 @@
           "_score": 9
         },
         {
-          "id": "s11",
+          "id": "s24",
           "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
           "url": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -979,39 +878,6 @@
           "also_in": [],
           "n_sources": 1,
           "_score": 6
-        },
-        {
-          "id": "s99",
-          "title": "CD Projekt Red details new Cyberpunk 2077 update - adding dual-wielding, cross-platform mods, Edgerunners story quests, and more",
-          "url": "https://www.eurogamer.net/cyberpunk-2077-update-edgerunners-2-mod-support",
-          "source": "Eurogamer.net Latest Articles Feed",
-          "date": "2026-10-21T16:03:54+00:00",
-          "summary": "CD Projekt Red has detailed the substantial update coming to Cyberpunk 2077 , revealing a new dual-wielding skill for pistols and revolvers, cyberware customisation, cross-platform mod support, and a brand-new Edgerunners-related story quest featuring voice actors from the Netflix anime show. Read more",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 1
-        },
-        {
-          "id": "s116",
-          "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-          "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-          "source": "Economy",
-          "date": "2026-10-21T11:20:58+00:00",
-          "summary": "Housing data deteriorated further in September, according to separate reports Tuesday.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 3
-        },
-        {
-          "id": "s115",
-          "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
-          "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
-          "source": "Economy",
-          "date": "2026-10-21T07:50:10+00:00",
-          "summary": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 4
         }
       ]
     },
@@ -1019,15 +885,15 @@
       "name": "CPG & Lifestyle",
       "items": [
         {
-          "id": "s79",
-          "title": "8 Cyberpunk 2077 Replay Ideas to Make Night City Feel Brand New",
-          "url": "https://www.polygon.com/cyberpunk-2077-replay-ideas/",
-          "source": "Polygon.com",
-          "date": "2026-10-22T23:00:19+00:00",
-          "summary": "From a dual-revolver cowboy to a netrunner who never fires a gun, these eight Cyberpunk 2077 replay ideas make Night City feel new again",
+          "id": "s137",
+          "title": "Shenzhen Bay MixC Phase II / Ippolito Fleitz Group",
+          "url": "https://www.archdaily.com/1184408/shenzhen-bay-mixc-phase-ii-ippolito-fleitz-group",
+          "source": "ArchDaily Global",
+          "date": "2026-10-23T00:00:00+00:00",
+          "summary": "Where Infrastructure Becomes Experience - As retail environments continue to evolve globally, shopping malls are increasingly shifting from consumption-driven destinations into mixed-use social and cultural ecosystems.",
           "also_in": [],
           "n_sources": 1,
-          "_score": 3
+          "_score": 4
         }
       ]
     },
@@ -1035,7 +901,172 @@
       "name": "Design & Architecture",
       "items": [
         {
-          "id": "s118",
+          "id": "s79",
+          "title": "Every Marvel Post-Credits Scene That Went Nowhere (So Far)",
+          "url": "https://www.polygon.com/marvel-movies-tv-shows-post-credits-scenes-teases/",
+          "source": "Polygon.com",
+          "date": "2026-10-23T22:16:19+00:00",
+          "summary": "Marvel Studios has promised a lot in the Multiverse Saga. Here's every post-credits scene from the MCU we still need answers for.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 1
+        },
+        {
+          "id": "s120",
+          "title": "Estúdio Semibreve / Estúdio Clara Nahas",
+          "url": "https://www.archdaily.com/1187236/estudio-semibreve-estudio-clara-nahas",
+          "source": "ArchDaily Global",
+          "date": "2026-10-23T17:00:00+00:00",
+          "summary": "No Estúdio Semibreve, a materialização da narrativa exigiu um exercício rigoroso de zoneamento e uma subversão proposital da lógica habitacional.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 1
+        },
+        {
+          "id": "s57",
+          "title": "A View From the Easel: Gerardo Rosales",
+          "url": "https://hyperallergic.com/a-view-from-the-easel-360/",
+          "source": "Hyperallergic",
+          "date": "2026-10-23T15:15:24+00:00",
+          "summary": "“I often say that my favorite material is the next one, the one I haven’t worked with yet.”",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 1
+        },
+        {
+          "id": "s103",
+          "title": "Adrian Smith + Gordon Gill Architecture designs \"fluid\" skyscraper Lilli for Miami waterfront",
+          "url": "https://www.dezeen.com/2026/10/23/adrian-smith-gordon-gill-lilli-skyscraper-miami/",
+          "source": "Dezeen",
+          "date": "2026-10-23T14:30:00+00:00",
+          "summary": "US studio Adrian Smith + Gordon Gill Architecture has unveiled its latest skyscraper for Miami, designed to display \"quiet refinement\" on a slender site on the city's waterfront. Called Lilli, the residential skyscraper development is the latest in Miami from Adrian Smith + Gordon Gill Architecture (AS+GG).",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 14
+        },
+        {
+          "id": "s104",
+          "title": "Loader Monteith expands red-brick bungalow within \"remarkably compact footprint\" near Manchester",
+          "url": "https://www.dezeen.com/2026/10/23/loader-monteith-deyne-avenue/",
+          "source": "Dezeen",
+          "date": "2026-10-23T10:30:00+00:00",
+          "summary": "Scottish architecture studio Loader Monteith has transformed a two-bed, red-brick bungalow into a four-bedroom family home in Prestwich, UK.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 3
+        },
+        {
+          "id": "s125",
+          "title": "Lele Hotel / The Lab Evn",
+          "url": "https://www.archdaily.com/1187167/lele-hotel",
+          "source": "ArchDaily Global",
+          "date": "2026-10-23T10:00:00+00:00",
+          "summary": "Located in Vayots Dzor, Lele Hotel is conceived as a direct response to the character and topography of its mountainous surroundings.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 2
+        },
+        {
+          "id": "s108",
+          "title": "Galerie Patrick Seguin shows demountable Jean Prouvé house with Japanese tea room interior at Design Miami.Paris",
+          "url": "https://www.dezeen.com/2026/10/23/galerie-patrick-seguin-jean-prouve-design-miami-paris/",
+          "source": "Dezeen",
+          "date": "2026-10-23T08:00:00+00:00",
+          "summary": "Galerie Patrick Seguin in Paris has brought a 1944 house by architect Jean Prouvé to Design Miami.Paris, where it was reinterpreted as a Japanese pavilion. The post Galerie Patrick Seguin shows demountable Jean Prouvé house with Japanese tea room interior at Design Miami.Paris appeared first on Dezeen .",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 9
+        },
+        {
+          "id": "s127",
+          "title": "Buenos Aires Architecture City Guide: 31 Sites Between Heritage and the Contemporary",
+          "url": "https://www.archdaily.com/1187373/buenos-aires-architecture-city-guide-31-sites-between-heritage-and-the-contemporary",
+          "source": "ArchDaily Global",
+          "date": "2026-10-23T08:00:00+00:00",
+          "summary": "Buenos Aires is a city of rich history and distinct atmospheres. There are many reasons to explore its architecture: the city is the result of a complex interplay of cultural factors shaped by a multitude of architectural styles and trends.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 4
+        },
+        {
+          "id": "s128",
+          "title": "Scaffolding as Interior Architecture: The Longevity of Temporary Structures",
+          "url": "https://www.archdaily.com/1187248/scaffolding-as-interior-architecture-the-longevity-of-temporary-structures",
+          "source": "ArchDaily Global",
+          "date": "2026-10-23T07:30:00+00:00",
+          "summary": "Scaffolding is perhaps one of architecture's most familiar temporary structures. It accompanies buildings through construction, maintenance, and renovation , only to disappear once its work is complete. Yet its apparent impermanence conceals a different kind of longevity.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 9
+        },
+        {
+          "id": "s131",
+          "title": "CHYBÍK + KRIŠTOF Turns Aedes Into a Live Architecture Studio to Develop Four Berlin Projects",
+          "url": "https://www.archdaily.com/1187409/chybik-plus-kristof-turns-aedes-into-a-live-architecture-studio-to-develop-four-berlin-projects",
+          "source": "ArchDaily Global",
+          "date": "2026-10-23T06:30:00+00:00",
+          "summary": "CHYBÍK + KRIŠTOF has opened Building the Existing City , an exhibition at Aedes Architecture Forum in Berlin that transforms the gallery into a working architecture studio.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 11
+        },
+        {
+          "id": "s109",
+          "title": "Shanghai tea shop Basao draws on \"Rockbund’s historic buildings\"",
+          "url": "https://www.dezeen.com/2026/10/23/shanghai-tea-shop-basao-rockbund-historic-buildings/",
+          "source": "Dezeen",
+          "date": "2026-10-23T05:00:00+00:00",
+          "summary": "Architect Keiji Ashizawa drew on the surrounding traditional architecture, as well as British studio David Chipperfield Architects' restoration of the district, when designing this tea shop and cafe in central Shanghai.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 3
+        },
+        {
+          "id": "s110",
+          "title": "iF Design Award 2027 calls for projects that \"hold up beyond aesthetics\"",
+          "url": "https://www.dezeen.com/2026/10/23/if-design-award-2027-calls-for-projects/",
+          "source": "Dezeen",
+          "date": "2026-10-23T04:00:00+00:00",
+          "summary": "This year's edition of the prestigious iF Design Award is open for entries until 2 November, with 93 distinct categories across architecture and design.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 10
+        },
+        {
+          "id": "s134",
+          "title": "Pavilions as Stances: 6 Unbuilt Proposals from the ArchDaily Community",
+          "url": "https://www.archdaily.com/1187233/pavilions-as-stances-6-unbuilt-proposals-from-the-archdaily-community",
+          "source": "ArchDaily Global",
+          "date": "2026-10-23T04:00:00+00:00",
+          "summary": "In architecture, the word \"pavilion\" can describe an endless variety of structures. It might be defined as a principle and a typology , a freestanding structure, a temporary intervention, a gathering place in the city , or a space for experimentation.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 3
+        },
+        {
+          "id": "s135",
+          "title": "Ibiza House / Studio Metamorphosis",
+          "url": "https://www.archdaily.com/1187189/ibiza-house-studio-metamorphosis",
+          "source": "ArchDaily Global",
+          "date": "2026-10-23T03:00:00+00:00",
+          "summary": "There are places remembered for the way they are inhabited. Ibiza represents a way of living where time revolves around shade, landscape, and shared spaces.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 6
+        },
+        {
+          "id": "s136",
+          "title": "Blu Pizzeria Jeddah / movs studio",
+          "url": "https://www.archdaily.com/1187269/blu-pizzeria-jeddah-movs-studio",
+          "source": "ArchDaily Global",
+          "date": "2026-10-23T02:00:00+00:00",
+          "summary": "Blu is a pizzeria chain where every restaurant takes its character from the city it opens in. For the Jeddah location, MOVS STUDIO built the interior around the element that shapes this Red Sea port: the wind. The restaurant occupies a corner unit of 335 square meters with a curved glazed facade.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 5
+        },
+        {
+          "id": "s112",
           "title": "Facade of Mexican university building draws on Gothic architecture",
           "url": "https://www.dezeen.com/2026/10/22/jonathan-corral-arquitectos-uad-alamedas-durango/",
           "source": "Dezeen",
@@ -1046,7 +1077,7 @@
           "_score": 5
         },
         {
-          "id": "s119",
+          "id": "s113",
           "title": "Tuesday Labs debuts \"droid butler\" Voxel",
           "url": "https://www.dezeen.com/2026/10/22/tuesday-labs-voxel-series-1/",
           "source": "Dezeen",
@@ -1057,7 +1088,7 @@
           "_score": 1
         },
         {
-          "id": "s134",
+          "id": "s141",
           "title": "Rana House / STUDIO_LPP",
           "url": "https://www.archdaily.com/1187347/rana-house-studio-lpp",
           "source": "ArchDaily Global",
@@ -1068,7 +1099,7 @@
           "_score": 3
         },
         {
-          "id": "s135",
+          "id": "s142",
           "title": "Parkside Villa / Studio B Architecture + Interiors",
           "url": "https://www.archdaily.com/1187144/parkside-villa-studio-b-architecture-plus-interiors",
           "source": "ArchDaily Global",
@@ -1079,7 +1110,7 @@
           "_score": 14
         },
         {
-          "id": "s93",
+          "id": "s98",
           "title": "Following shock BioWare closure, scope of EA job cuts becomes clear as layoffs hit Respawn, Maxis, Full Circle, EA Motive, and more",
           "url": "https://www.eurogamer.net/ea-cuts-massive-ripple-effect-motive-full-circle-respawn",
           "source": "Eurogamer.net Latest Articles Feed",
@@ -1090,7 +1121,7 @@
           "_score": 2
         },
         {
-          "id": "s120",
+          "id": "s114",
           "title": "Prest Vale Architects extends historic stone rectory in the Cotswolds",
           "url": "https://www.dezeen.com/2026/10/22/prest-vale-architects-rectory/",
           "source": "Dezeen",
@@ -1101,29 +1132,7 @@
           "_score": 1
         },
         {
-          "id": "s139",
-          "title": "Fusion Creative Workshop / ARCHI.DOC",
-          "url": "https://www.archdaily.com/1186875/fusion-creative-workshop",
-          "source": "ArchDaily Global",
-          "date": "2026-10-22T10:00:00+00:00",
-          "summary": "The Faculty of Wood Engineering and Creative Industries building is located in the Botanical Garden of the University of Sopron .",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 1
-        },
-        {
-          "id": "s141",
-          "title": "Designing Nusantara: The Making of Indonesia's New Capital",
-          "url": "https://www.archdaily.com/1187302/designing-nusantara-the-making-of-indonesias-new-capital",
-          "source": "ArchDaily Global",
-          "date": "2026-10-22T09:10:00+00:00",
-          "summary": "What does it take to design a capital city for a culturally diverse nation from the ground up? This book offers a rare, behind-the-scenes look at Nusantara, the new capital of Indonesia, told through the eyes of the lead designer from its earllest conception to its current development.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 5
-        },
-        {
-          "id": "s95",
+          "id": "s100",
           "title": "Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn",
           "url": "https://www.eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report",
           "source": "Eurogamer.net Latest Articles Feed",
@@ -1134,62 +1143,7 @@
           "_score": 5
         },
         {
-          "id": "s143",
-          "title": "Learning from Capitalism: How Postmodern Architecture Became the Language of American Business",
-          "url": "https://www.archdaily.com/1187113/learning-from-capitalism-how-postmodern-architecture-became-the-language-of-american-business",
-          "source": "ArchDaily Global",
-          "date": "2026-10-22T07:30:00+00:00",
-          "summary": "In 1972, Robert Venturi, Denise Scott Brown , and Steven Izenour published Learning from Las Vegas , challenging architects to reconsider the underappreciated, largely dismissed commercial landscape in the United States .",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 5
-        },
-        {
-          "id": "s144",
-          "title": "Aalok Farmhouse / Nodecraft Studio",
-          "url": "https://www.archdaily.com/1186827/aalok-farmhouse-nodecraft-studio",
-          "source": "ArchDaily Global",
-          "date": "2026-10-22T07:00:00+00:00",
-          "summary": "Aalok Farmhouse is a 3-bedroom weekend home located on the outskirts of Bengaluru that reinterprets the farmhouse typology through a series of independent pavilions connected by landscape.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 6
-        },
-        {
-          "id": "s145",
-          "title": "Restoring Views at Neutra’s Corwin House with Sky-Frame",
-          "url": "https://www.archdaily.com/1186757/restoring-views-at-neutras-corwin-house-with-sky-frame",
-          "source": "ArchDaily Global",
-          "date": "2026-10-22T06:45:00+00:00",
-          "summary": "About an hour's drive from New York, the Corwin House sits in hilly woodland high above the Saugatuck River. Completed by Richard Neutra in 1956, it is one of only three houses the architect built in Connecticut.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 2
-        },
-        {
-          "id": "s147",
-          "title": "Modern Mokotów / BBGK Architekci",
-          "url": "https://www.archdaily.com/1186424/modern-mokotow-bbgk-architekci",
-          "source": "ArchDaily Global",
-          "date": "2026-10-22T06:00:00+00:00",
-          "summary": "The New Face of Służewiec Przemysłowy - Służewiec Przemysłowy, part of Warsaw's Mokotów district, is a place which, over the course of just under a century, has become the site of three successive spatial monocultures.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 2
-        },
-        {
-          "id": "s149",
-          "title": "How Seaside House Explores the Relationship Between Brick, Wood, and the Coastal Landscape",
-          "url": "https://www.archdaily.com/1186838/how-seaside-house-explores-the-relationship-between-brick-wood-and-the-coastal-landscape",
-          "source": "ArchDaily Global",
-          "date": "2026-10-22T05:00:00+00:00",
-          "summary": "Brick and wood can establish a dialogue between architectural permanence and the textures of coastal environments. In Höllviken, on the southern coast of Sweden, Seaside House by Koistinen Hellborg Architects explores how materiality, light, and spatial organization can shape a home in relationship with its natural…",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 2
-        },
-        {
-          "id": "s124",
+          "id": "s118",
           "title": "Carminati lift-and-slide windows frame Dubai skyline at Bvlgari Hotel and Resort",
           "url": "https://www.dezeen.com/2026/10/22/carminati-lift-slide-windows-frame-dubai-skyline-bvlgari-hotel-resort/",
           "source": "Dezeen",
@@ -1198,127 +1152,6 @@
           "also_in": [],
           "n_sources": 1,
           "_score": 2
-        },
-        {
-          "id": "s150",
-          "title": "Small Houses in Uruguay: How Three Studios Build Light on Rural and Coastal Sites",
-          "url": "https://www.archdaily.com/1187165/small-houses-in-uruguay-how-three-studios-build-light-on-rural-and-coastal-sites",
-          "source": "ArchDaily Global",
-          "date": "2026-10-22T04:00:00+00:00",
-          "summary": "In Uruguay , small-scale residential projects increasingly occupy rural and coastal landscapes, from the hills of Villa Serrana to the maritime forests along the Atlantic coast. Building in these areas often requires structural materials that balance durability, thermal efficiency, and transport feasibility.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 8
-        },
-        {
-          "id": "s151",
-          "title": "Villa Sanlomjoy / Yangnar Studio",
-          "url": "https://www.archdaily.com/1187087/villa-sanlomjoy-yangnar-studio",
-          "source": "ArchDaily Global",
-          "date": "2026-10-22T03:00:00+00:00",
-          "summary": "Rooted in childhood memories, the house began with a collection of salvaged wooden doors and windows, some sourced from Myanmar via Mae Sot, Tak, Thailand.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 3
-        },
-        {
-          "id": "s153",
-          "title": "Making Room for Rest in Residential Interiors",
-          "url": "https://www.archdaily.com/1182304/integrating-wellness-into-residential-interiors",
-          "source": "ArchDaily Global",
-          "date": "2026-10-22T01:30:00+00:00",
-          "summary": "Wellbeing is no longer confined to exclusive resorts, spas, or hospitality settings. Today, it has become an essential part of contemporary living, inspiring homeowners to create private spaces dedicated to relaxation and personal care.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 3
-        },
-        {
-          "id": "s154",
-          "title": "7th door Hangzhou Restaurant / Chakchak Studio",
-          "url": "https://www.archdaily.com/1186809/7th-door-hangzhou-chakchak-studio",
-          "source": "ArchDaily Global",
-          "date": "2026-10-22T00:00:00+00:00",
-          "summary": "Hangzhou is a historic Chinese city and home to world-class corporations like Alibaba and DeepSeek. Located near \"West Lake\" in the heart of the city, \"Meihuatang\" is a registered modern cultural heritage site of Hangzhou.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 3
-        },
-        {
-          "id": "s40",
-          "title": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
-          "url": "https://decrypt.co/381570/nvidia-ai-agent-containment-tools-full-stack-blueprint",
-          "source": "Decrypt",
-          "date": "2026-10-21T20:16:02+00:00",
-          "summary": "Nvidia's OpenShell Reference Architecture pairs a software sandbox on Vera CPUs with Sentry monitoring on BlueField-4 chips, aiming to let companies run autonomous agents while enforcing limits agents cannot reach.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 1
-        },
-        {
-          "id": "s67",
-          "title": "Man Killed by Falling Debris at Frank Lloyd Wright’s Arizona Home",
-          "url": "https://hyperallergic.com/man-killed-by-falling-debris-at-frank-lloyd-wrights-arizona-home/",
-          "source": "Hyperallergic",
-          "date": "2026-10-21T18:48:30+00:00",
-          "summary": "Winds reportedly dislodged the piece of roofing material that struck Rogério Renato Mateucci, a Brazilian university rector.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 1
-        },
-        {
-          "id": "s126",
-          "title": "Dezeen launches \"richer and more versatile\" new website",
-          "url": "https://www.dezeen.com/2026/10/21/dezeen-launches-new-website-2026/",
-          "source": "Dezeen",
-          "date": "2026-10-21T11:03:00+00:00",
-          "summary": "Dezeen has updated its website for the first time in 10 years. Dezeen's co-CEOs Benedict Hobson and Wai Shin Li explain the changes. You might have noticed that things look a little different around here. Yes, after many years, we have redesigned our website!",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 1
-        },
-        {
-          "id": "s127",
-          "title": "Dosorozco uses stone and blackened timber for textured home in Mexican forest",
-          "url": "https://www.dezeen.com/2026/10/21/dosorozco-casa-sima/",
-          "source": "Dezeen",
-          "date": "2026-10-21T10:30:00+00:00",
-          "summary": "Architecture studio Dosorozco has used a palette of blackened timber, stonework and pale plaster at Casa Sima, a Mexican home designed to echo the textures and tones of its forest surroundings.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 3
-        },
-        {
-          "id": "s128",
-          "title": "Takero Shimazaki upgrades makeshift theatre into permanent \"church-like\" London venue",
-          "url": "https://www.dezeen.com/2026/10/21/yard-theatre-revamp-takero-shimazaki-architects-london/",
-          "source": "Dezeen",
-          "date": "2026-10-21T09:00:00+00:00",
-          "summary": "A crane tower becomes a soaring beacon at The Yard Theatre in London's Hackney Wick, which local studio Takero Shimazaki Architects has revamped and extended using reclaimed materials.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 5
-        },
-        {
-          "id": "s129",
-          "title": "Apple showcases upcycled found furniture and banana palm-paper lantern at Designers of Tomorrow show",
-          "url": "https://www.dezeen.com/2026/10/21/apple-designers-of-tomorrow-show-2026/",
-          "source": "Dezeen",
-          "date": "2026-10-21T08:00:00+00:00",
-          "summary": "Designers Parafernalia, Yoonjeong Lee, Salem S Charabi and Isabel Rower will celebrate \"the art in the making\" at technology brand Apple's Designers of Tomorrow exhibition at Design Miami.Paris.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 15
-        },
-        {
-          "id": "s130",
-          "title": "Glen-Gery clads Princeton University health centre in bricks made with reclaimed materials",
-          "url": "https://www.dezeen.com/2026/10/21/glen-gery-frist-health-centre/",
-          "source": "Dezeen",
-          "date": "2026-10-21T07:00:00+00:00",
-          "summary": "Burgundy-coloured bricks incorporating reclaimed manufacturing waste wrap Princeton University's Frist Health Centre in Princeton, New Jersey, as shown in this video carousel produced by Dezeen.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 5
         }
       ]
     },
@@ -1327,28 +1160,193 @@
       "items": [
         {
           "id": "s81",
-          "title": "Half-Life 3 Rumors Reignite After Valve Employee Lets Codename Slip",
-          "url": "https://www.polygon.com/valve-half-life-3-hlx/",
+          "title": "10 New Movies To Watch This Weekend on HBO, Hulu, and Disney Plus (October 23-25)",
+          "url": "https://www.polygon.com/new-movies-streaming-this-weekend-hbo-disney-plus-hulu-october-23-25/",
           "source": "Polygon.com",
-          "date": "2026-10-22T21:16:28+00:00",
-          "summary": "A Valve employee just casually mentioned Half-Life 3's rumored codename HLX in public, reigniting rumors that the shooter is returning.",
+          "date": "2026-10-23T21:00:19+00:00",
+          "summary": "In this week's movie streaming column, we have one of the best and funniest couples dramas of the year, a Disney live-action remake, and more.",
           "also_in": [],
-          "n_sources": 1,
+          "n_sources": 2,
           "_score": 0
         },
         {
           "id": "s82",
-          "title": "'Clayface' Officially Sets Up Another Iconic Batman Villain in the DC Universe",
-          "url": "https://www.polygon.com/clayface-joker-easter-eggs/",
+          "title": "Best Visions to use in Final Fantasy Resonance",
+          "url": "https://www.polygon.com/final-fantasy-resonance-best-visions/",
           "source": "Polygon.com",
-          "date": "2026-10-22T21:00:19+00:00",
-          "summary": "Clayface is filled with some very noticible Easter eggs about the Joker",
+          "date": "2026-10-23T18:27:34+00:00",
+          "summary": "The best Visions in Final Fantasy Resonance combine excellent skills with universally useful mastery abilities",
+          "also_in": [],
+          "n_sources": 2,
+          "_score": 0
+        },
+        {
+          "id": "s76",
+          "title": "The Witcher's Geralt Officially Returns for New Adventure",
+          "url": "https://www.polygon.com/the-witcher-geralt-returns-in-2026-with-new-release/",
+          "source": "Polygon.com",
+          "date": "2026-10-24T00:43:18+00:00",
+          "summary": "Andrzej Sapkowski recently confirmed he's working on a new The Witcher book, and he hopes to have it completed by 2028.",
           "also_in": [],
           "n_sources": 1,
           "_score": 0
         },
         {
-          "id": "s26",
+          "id": "s78",
+          "title": "7 Classic JRPGs That Are So Good They Never Need a Remake",
+          "url": "https://www.polygon.com/best-classic-jrpgs-no-remake/",
+          "source": "Polygon.com",
+          "date": "2026-10-23T22:19:03+00:00",
+          "summary": "These JRPGs may have been ported to newer platforms or lightly remastered, but they look and play nearly identical to when they were first released",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 0
+        },
+        {
+          "id": "s80",
+          "title": "An '80s Cult Horror-Comedy Becomes a Global Streaming Hit on HBO Max",
+          "url": "https://www.polygon.com/gremlins-hbo-max-streaming-success-october-2026/",
+          "source": "Polygon.com",
+          "date": "2026-10-23T21:00:49+00:00",
+          "summary": "1984's Gremlins finds worldwide streaming success on HBO Max, proving the horror comedy remains a fan favorite decades after its original release.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 0
+        },
+        {
+          "id": "s102",
+          "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+          "url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+          "source": "Economy",
+          "date": "2026-10-23T20:49:42+00:00",
+          "summary": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 0
+        },
+        {
+          "id": "s27",
+          "title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of",
+          "url": "https://decrypt.co/381753/spacex-filing-elon-musk-final-word-tesla-merger",
+          "source": "Decrypt",
+          "date": "2026-10-23T19:36:02+00:00",
+          "summary": "SpaceX’s latest 10-Q filing quietly confirms any Tesla combination requires sign-off from its “controlling shareholder.”",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 0
+        },
+        {
+          "id": "s119",
+          "title": "Colien House / Álvaro Siza Vieira",
+          "url": "https://www.archdaily.com/1019867/colien-house-alvaro-siza-vieira-plus-alvaro-fonseca",
+          "source": "ArchDaily Global",
+          "date": "2026-10-23T19:00:00+00:00",
+          "summary": "The slope related to the access street and the willingness to act just on the essentials, regarding the topography and site vegetation, guided the program organization of Colien House into a compact volume that staged descends the terrain slope.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 0
+        },
+        {
+          "id": "s83",
+          "title": "Mass Effect 5 Pitched as 'John Wick and James Bond' in Space, Report Says",
+          "url": "https://www.polygon.com/mass-effect-5-leaked-plot-details-john-wick-james-bond-in-space/",
+          "source": "Polygon.com",
+          "date": "2026-10-23T18:34:46+00:00",
+          "summary": "New Mass Effect: Universe details have surfaced. Reportedly it would have been a spy thriller inspired by John Wick and James Bond.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 0
+        },
+        {
+          "id": "s87",
+          "title": "Mass Effect crossover items have seemingly been removed from Battlefield 6 following EA's sudden closure of BioWare",
+          "url": "https://www.eurogamer.net/mass-effect-battlefield-6-crossover-bioware-closure",
+          "source": "Eurogamer.net Latest Articles Feed",
+          "date": "2026-10-23T17:19:50+00:00",
+          "summary": "After EA's sudden shutdown of developer BioWare , upcoming crossover items themed around Mass Effect appear to have been removed from Battlefield 6 . Read more",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 0
+        },
+        {
+          "id": "s56",
+          "title": "Scientists Contest Dating of Van Gogh’s \"The Starry Night\"",
+          "url": "https://hyperallergic.com/scientists-contest-dating-of-van-goghs-the-starry-night/",
+          "source": "Hyperallergic",
+          "date": "2026-10-23T16:55:26+00:00",
+          "summary": "The researchers identified discrepancies between the celestial alignments in June 1889 and Vincent van Gogh’s painted night sky.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 0
+        },
+        {
+          "id": "s122",
+          "title": "Veja São Paulo Store / Roberto Somlo Arquitetura",
+          "url": "https://www.archdaily.com/1187436/veja-sao-paulo-store-roberto-somlo-arquitetura",
+          "source": "ArchDaily Global",
+          "date": "2026-10-23T13:00:00+00:00",
+          "summary": "The project transforms an existing building on Oscar Freire Street, in the Jardim Paulista neighborhood, to house the first VEJA store in Brazil. The store is a radical encounter between exposed history and São Paulo modernism.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 0
+        },
+        {
+          "id": "s107",
+          "title": "Has Tesla really made a flying car?",
+          "url": "https://www.dezeen.com/2026/10/23/tesla-roadster-shanghai-opera-house-dezeen-weekly-podcast/",
+          "source": "Dezeen",
+          "date": "2026-10-23T08:30:00+00:00",
+          "summary": "Listen now to the latest episode of Dezeen Weekly. The post Has Tesla really made a flying car? appeared first on Dezeen .",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 0
+        },
+        {
+          "id": "s8",
+          "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
+          "url": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "date": "2026-10-23T08:02:35+00:00",
+          "summary": "(no preview available)",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 0
+        },
+        {
+          "id": "s129",
+          "title": "Bois de Cergy Leisure Centre / PLURIEL[LES] ARCHITECTES",
+          "url": "https://www.archdaily.com/1186955/bois-de-cergy-leisure-centre-pluriel-les-architectes",
+          "source": "ArchDaily Global",
+          "date": "2026-10-23T07:00:00+00:00",
+          "summary": "Located on the edge of the Bois de Cergy , the Leisure Centre occupies a remarkable wooded site of heritage value. This setting gives children direct contact with the natural environment surrounding the facility.",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 0
+        },
+        {
+          "id": "s9",
+          "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
+          "url": "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "date": "2026-10-23T05:01:19+00:00",
+          "summary": "(no preview available)",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 0
+        },
+        {
+          "id": "s11",
+          "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
+          "url": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "date": "2026-10-23T04:36:51+00:00",
+          "summary": "(no preview available)",
+          "also_in": [],
+          "n_sources": 1,
+          "_score": 0
+        },
+        {
+          "id": "s39",
           "title": "ChatGPT Teaches Messi Chess—On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",
           "url": "https://decrypt.co/381644/chatgpt-messi-chess-board-wrong-loses-in-four-moves",
           "source": "Decrypt",
@@ -1359,7 +1357,7 @@
           "_score": 0
         },
         {
-          "id": "s57",
+          "id": "s63",
           "title": "Meet the Painter Adorning Phoebe Bridgers’s Guitars",
           "url": "https://hyperallergic.com/meet-the-painter-adorning-phoebe-bridgerss-guitars/",
           "source": "Hyperallergic",
@@ -1370,18 +1368,7 @@
           "_score": 0
         },
         {
-          "id": "s87",
-          "title": "Jenna Ortega's New Sci-Fi Movie Turns Compelling AI Drama Into One Big Joke",
-          "url": "https://www.polygon.com/klara-and-the-sun-review/",
-          "source": "Polygon.com",
-          "date": "2026-10-22T19:00:19+00:00",
-          "summary": "Klara and the Sun is based on Kazuo Ishiguro's novel. Director Taika Waititi strips away its compelling ideas with jokes.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 0
-        },
-        {
-          "id": "s131",
+          "id": "s138",
           "title": "Mirador House / Rodrigo de la Cerda Arquitecto",
           "url": "https://www.archdaily.com/1187341/mirador-house-rodrigo-de-la-cerda-arquitecto",
           "source": "ArchDaily Global",
@@ -1392,7 +1379,7 @@
           "_score": 0
         },
         {
-          "id": "s29",
+          "id": "s42",
           "title": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
           "url": "https://decrypt.co/381638/coinbase-fined-again-ireland-3-6m-fund-safeguarding",
           "source": "Decrypt",
@@ -1403,7 +1390,7 @@
           "_score": 0
         },
         {
-          "id": "s59",
+          "id": "s65",
           "title": "The Cathedral of Learning Is Pittsburgh’s Secular Temple",
           "url": "https://hyperallergic.com/the-cathedral-of-learning-is-pittsburghs-secular-temple/",
           "source": "Hyperallergic",
@@ -1414,7 +1401,7 @@
           "_score": 0
         },
         {
-          "id": "s113",
+          "id": "s101",
           "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
           "url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
           "source": "Economy",
@@ -1425,7 +1412,7 @@
           "_score": 0
         },
         {
-          "id": "s2",
+          "id": "s15",
           "title": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
           "url": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -1436,144 +1423,12 @@
           "_score": 0
         },
         {
-          "id": "s60",
-          "title": "Apply Now for Fully Funded Interdisciplinary MFA Program",
-          "url": "https://hyperallergic.com/apply-now-for-fully-funded-interdisciplinary-mfa-program/",
-          "source": "Hyperallergic",
-          "date": "2026-10-22T15:13:00+00:00",
-          "summary": "Upcoming deadline for MFA program applications at University at Buffalo",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 0
-        },
-        {
-          "id": "s114",
-          "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
-          "url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
-          "source": "Economy",
-          "date": "2026-10-22T13:18:36+00:00",
-          "summary": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 0
-        },
-        {
-          "id": "s138",
-          "title": "Beijing Capital Xiangxi Intangible Heritage Workstation / DAGA Architects",
-          "url": "https://www.archdaily.com/955634/beijing-capital-xiangxi-intangible-heritage-workstation-daga-architects",
-          "source": "ArchDaily Global",
-          "date": "2026-10-22T12:00:00+00:00",
-          "summary": "The ancient city of Qianzhou on the bank of the Wanrong River has a long history and is known as the first of the four ancient towns in Xiangxi.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 0
-        },
-        {
-          "id": "s122",
+          "id": "s116",
           "title": "Albania accused of fast-tracking controversial Trump-linked resort",
           "url": "https://www.dezeen.com/2026/10/22/albania-sazan-island-resort/",
           "source": "Dezeen",
           "date": "2026-10-22T09:45:00+00:00",
           "summary": "Albania's prime minister has been accused of \"sneaky and disloyal\" practices to push through contentious plans for a luxury Trump-linked resort, amid fierce protests in the country.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 0
-        },
-        {
-          "id": "s15",
-          "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
-          "url": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "date": "2026-10-22T04:36:20+00:00",
-          "summary": "(no preview available)",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 0
-        },
-        {
-          "id": "s39",
-          "title": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble—And Compares GPUs to Airline Seats",
-          "url": "https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats",
-          "source": "Decrypt",
-          "date": "2026-10-21T21:31:02+00:00",
-          "summary": "Citadel's founder says investors are almost certainly in an AI bubble, warns a chip glut could crash prices like empty airline seats, yet expects the survivors to lead for decades.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 0
-        },
-        {
-          "id": "s63",
-          "title": "The French Student Protesters Subverting Monuments Like It's May 68",
-          "url": "https://hyperallergic.com/the-french-student-protesters-subverting-monuments-like-its-may-68/",
-          "source": "Hyperallergic",
-          "date": "2026-10-21T21:20:43+00:00",
-          "summary": "Demonstrators are upending the country’s public landmarks to denounce police violence, under-resourced schools, and a worsening cost-of-living crisis.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 0
-        },
-        {
-          "id": "s41",
-          "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
-          "url": "https://decrypt.co/381567/who-found-php-bug-governments-unplug-websites-chatgpt",
-          "source": "Decrypt",
-          "date": "2026-10-21T18:46:08+00:00",
-          "summary": "OpenAI says its models found PHP2Shell and led a two-month coalition to fix it. It's the same AI that broke into Hugging Face and an Australian government portal this year.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 0
-        },
-        {
-          "id": "s42",
-          "title": "How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire",
-          "url": "https://decrypt.co/381543/elon-musk-spacex-tesla-merger-ai-empire",
-          "source": "Decrypt",
-          "date": "2026-10-21T18:16:03+00:00",
-          "summary": "Both boards are now studying a tie-up that would put Grok, X, Starlink, orbital data centers, a chip megafactory and Optimus robots under one roof—and under one man's control.",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 0
-        },
-        {
-          "id": "s98",
-          "title": "First-person Soulslike Valor Mortis is already making a profit after seven days, despite launching against some stiff competition",
-          "url": "https://www.eurogamer.net/soulslike-valor-mortis-making-profit-seven-days",
-          "source": "Eurogamer.net Latest Articles Feed",
-          "date": "2026-10-21T16:43:42+00:00",
-          "summary": "Developer One More Level is wall-running toward another big success with its recently-released first-person Soulslike, Valor Mortis, which has already broken even after its first week. Read more",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 0
-        },
-        {
-          "id": "s100",
-          "title": "Beyond Good & Evil 2 reportedly still in development 18 years after being announced, now a \"solo-first\" adventure",
-          "url": "https://www.eurogamer.net/beyond-good-and-evil-bge2-report-ubisoft",
-          "source": "Eurogamer.net Latest Articles Feed",
-          "date": "2026-10-21T16:01:00+00:00",
-          "summary": "Beyond Good & Evil 2 is reportedly still in pre-production a staggering 18 years after it was first announced, and it has apparently evolved from being a multiplayer-first project to being \"solo-first\" and story based, with additional, optional co-op. Read more",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 0
-        },
-        {
-          "id": "s101",
-          "title": "World of Warcraft: Forever's beta has been extended, as community members mourn the loss of their hunter pets",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-beta-extended",
-          "source": "Eurogamer.net Latest Articles Feed",
-          "date": "2026-10-21T15:46:24+00:00",
-          "summary": "World of Warcraft: Forever's beta has been extended until this Friday, much to the joy of the community of early players. Read more",
-          "also_in": [],
-          "n_sources": 1,
-          "_score": 0
-        },
-        {
-          "id": "s105",
-          "title": "Warhammer 40K fans have some very specific questions about the Blood Ravens' origins, so I put them to Dawn of War 4's director",
-          "url": "https://www.eurogamer.net/dawn-of-war-4-blood-ravens-space-marine-origins-questions",
-          "source": "Eurogamer.net Latest Articles Feed",
-          "date": "2026-10-21T12:22:55+00:00",
-          "summary": "Right, let's get one important thing out of the way first: I've played a fair bit more of Dawn of War 4 's main campaign, after my initial impressions of a single mission last year , and I think it is very good .",
           "also_in": [],
           "n_sources": 1,
           "_score": 0
